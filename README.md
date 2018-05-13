@@ -1,6 +1,6 @@
 # Privacy Policy
 
-Chinh Nguyen built the this app as a Free app. This SERVICE is provided by Chinh Nguyen at no cost and is intended for use as is.
+Kevin Nguyen built the this app as a Free app. This SERVICE is provided by Kevin Nguyen at no cost and is intended for use as is.
 
 This page is used to inform website visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 
