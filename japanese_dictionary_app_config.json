@@ -3,7 +3,7 @@
     "banner": 1,
     "interstitial": 0.5,
     "native": 1,
-    "adpress": 30000,
+    "adpress": 3000,
     "intervalAdsInter": 30000
   },
   "ga": {
