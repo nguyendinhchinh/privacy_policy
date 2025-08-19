@@ -4,7 +4,7 @@
     "interstitial": 0.5,
     "native": 1,
     "adpress": 300000,
-    "intervalAdsInter": 300000
+    "intervalAdsInter": 30000
   },
   "ga": {
     "android": "UA-00000000-00",
