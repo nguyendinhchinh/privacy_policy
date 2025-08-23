@@ -6,7 +6,7 @@
     "adpress": 3000,
     "intervalAdsInter": 130000,
     "intervalRefreshConfig": 900000,
-    "showAdsWhenResume": true,
+    "showAdsWhenResume": 1,
     "exchangeCoinsToFreeDay": 10
   },
   "ga": {
