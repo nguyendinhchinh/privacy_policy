@@ -6,6 +6,7 @@
     "adpress": 3000,
     "intervalAdsInter": 40000,
     "intervalRefreshConfig": 900000,
+	"showAdsOnHomePage": 1,
     "showAdsWhenResume": 1,
     "exchangeCoinsToFreeDay": 10,
 	"testDeviceIds": "B3EEABB8EE11C2BE770B684D95219ECB,5A316D7352C5AEFD53975AD366D3614A,FE83085034CFBD05CD563BDCB9D490A1"
