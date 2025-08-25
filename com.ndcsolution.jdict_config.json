@@ -1,0 +1,50 @@
+{
+  "adsProb": {
+    "banner": 1,
+    "interstitial": 0.5,
+    "native": 1,
+    "adpress": 3000,
+    "intervalAdsInter": 40000,
+    "intervalRefreshConfig": 900000,
+    "showAdsWhenResume": 1,
+    "exchangeCoinsToFreeDay": 10,
+	"testDeviceIds": "B3EEABB8EE11C2BE770B684D95219ECB,5A316D7352C5AEFD53975AD366D3614A,FE83085034CFBD05CD563BDCB9D490A1"
+  },
+  "ga": {
+    "android": "UA-00000000-00",
+    "ios": "UA-00000000-00",
+    "wp": "UA-00000000-0"
+  },
+  "adsid": {
+      "ios": {
+        "banner": "ca-app-pub-8736491681464477/4292620223",
+        "interstitial": "ca-app-pub-8736491681464477/2213251798",
+        "native_small": "ca-app-pub-8736491681464477/1105356392",
+        "native_medium": "ca-app-pub-8736491681464477/1105356392",
+        "native_large": "ca-app-pub-8736491681464477/1105356392",
+        "news_end": "143625519511586_188378631702941",
+        "search": "143625519511586_188379108369560",
+        "search_instant": "143625519511586_188583231682481"
+      },
+      "android": {
+        "banner": "ca-app-pub-8199158653561127/5598652824",
+        "interstitial": "ca-app-pub-8199158653561127/5846064836",
+        "reward_ads": "ca-app-pub-8199158653561127/7154566635",
+        "reward_interstitial": "ca-app-pub-8199158653561127/4807798412",
+        "open_app_interstitial": "ca-app-pub-8199158653561127/8453166436",
+        "native_small": "ca-app-pub-8199158653561127/4709131039",
+        "native_medium": "ca-app-pub-8199158653561127/4709131039",
+        "native_large": "ca-app-pub-8199158653561127/4709131039"
+      },
+      "wp8": {
+        "banner": "ca-app-pub-8736491681464477/4292620223",
+        "interstitial": "ca-app-pub-8736491681464477/2213251798"
+      }
+  },
+  "audio": {
+      "request_name": "http://dws2.voicetext.jp/tomcat/servlet/vt",
+      "request_file": "http://dws2.voicetext.jp/ASLCLCLVVS/JMEJSYGDCHMSMHSRKPJL/"
+  },
+  "mazii_url": "http://mazii.net/api/",
+  "ir": false
+}
