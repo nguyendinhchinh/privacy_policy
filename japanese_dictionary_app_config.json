@@ -4,7 +4,7 @@
     "interstitial": 0.5,
     "native": 1,
     "adpress": 3000,
-    "intervalAdsInter": 40000,
+    "intervalAdsInter": 50000,
     "intervalRefreshConfig": 900000,
     "showAdsOnHomePage": 1,
     "showAdsWhenResume": 1,
