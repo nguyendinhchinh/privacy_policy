@@ -5,7 +5,7 @@
     "native": 1,
     "adpress": 3000,
 	"freqShowAdsRewardAfterShowInter": 8,
-	"intervalAdsRewardInter": 10,
+	"intervalAdsShowRewardInter": 10,
     "intervalAdsInter": 60000,
     "intervalRefreshConfig": 900000,
 	"showAdsOnHomePage": 1,
