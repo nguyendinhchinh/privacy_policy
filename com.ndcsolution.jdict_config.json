@@ -1,4 +1,7 @@
 {
+  "appInfo": {
+	"version_code": 71,
+  },
   "adsProb": {
     "banner": 1,
     "interstitial": 0.5,
@@ -35,6 +38,7 @@
         "interstitial": "ca-app-pub-8199158653561127/5846064836",
         "reward_ads": "ca-app-pub-8199158653561127/7154566635",
         "reward_interstitial": "ca-app-pub-8199158653561127/4807798412",
+		"reward_interstitial_donate": "ca-app-pub-8199158653561127/4807798412",
         "open_app_interstitial": "ca-app-pub-8199158653561127/8453166436",
         "native_small": "ca-app-pub-8199158653561127/4709131039",
         "native_medium": "ca-app-pub-8199158653561127/4709131039",
