@@ -1,14 +1,21 @@
 {
+  "appInfo": {
+	"version_code": 27,
+	"day_of_upgrade_app": 5
+  },
   "adsProb": {
     "banner": 1,
     "interstitial": 0.5,
     "native": 1,
     "adpress": 3000,
-    "intervalAdsInter": 40000,
+	"freqShowAdsRewardAfterShowInter": 8,
+	"intervalAdsShowRewardInter": 10,
+    "intervalAdsInter": 60000,
     "intervalRefreshConfig": 900000,
 	"showAdsOnHomePage": 1,
     "showAdsWhenResume": 1,
     "exchangeCoinsToFreeDay": 10,
+	"intervalCallConsent": 5,
 	"testDeviceIds": "B3EEABB8EE11C2BE770B684D95219ECB,5A316D7352C5AEFD53975AD366D3614A,FE83085034CFBD05CD563BDCB9D490A1"
   },
   "ga": {
@@ -32,6 +39,7 @@
         "interstitial": "ca-app-pub-8199158653561127/6822723957",
         "reward_ads": "ca-app-pub-8199158653561127/5223087198",
         "reward_interstitial": "ca-app-pub-8199158653561127/5223087198",
+		"reward_interstitial_donate": "ca-app-pub-8199158653561127/5223087198",
         "open_app_interstitial": "ca-app-pub-8199158653561127/8453166436",
         "native_small": "ca-app-pub-8199158653561127/4709131039",
         "native_medium": "ca-app-pub-8199158653561127/4709131039",
