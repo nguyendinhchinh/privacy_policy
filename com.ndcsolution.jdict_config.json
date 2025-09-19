@@ -1,6 +1,7 @@
 {
   "appInfo": {
-	"version_code": 72
+	"version_code": 72,
+	"day_of_upgrade_app": 3
   },
   "adsProb": {
     "banner": 1,
