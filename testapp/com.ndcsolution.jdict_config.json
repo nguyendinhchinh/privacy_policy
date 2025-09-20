@@ -1,6 +1,7 @@
 {
   "appInfo": {
-	"version_code": 71
+	"version_code": 71,
+	"day_of_upgrade_app": 3
   },
   "adsProb": {
     "banner": 1,
@@ -8,7 +9,7 @@
     "native": 1,
     "adpress": 3000,
     "freqShowAdsRewardAfterShowInter": 8,
-    "intervalAdsShowRewardInter": 8,
+    "intervalAdsShowRewardInter": 5,
     "intervalAdsInter": 40000,
     "intervalRefreshConfig": 900000,
     "showAdsOnHomePage": 1,
