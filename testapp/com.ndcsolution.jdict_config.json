@@ -1,8 +1,8 @@
 {
   "appInfo": {
-	"version_code": 72,
+	"version_code": 74,
 	"day_of_upgrade_app": 3,
-	"message_upgrade": "A new version of the app is available. Please update to the latest version for the best experience."
+	"message_upgrade_app": "A new version of the app is available. Please update to the latest version for the best experience. Added writing kanji feature"
   },
   "adsProb": {
     "banner": 1,

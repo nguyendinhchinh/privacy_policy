@@ -1,15 +1,16 @@
 {
   "appInfo": {
 	"version_code": 27,
-	"day_of_upgrade_app": 3
+	"day_of_upgrade_app": 3,
+	"message_upgrade_app": "A new version of the app is available. Please update to the latest version for the best experience."
   },
   "adsProb": {
     "banner": 1,
     "interstitial": 0.5,
     "native": 1,
     "adpress": 3000,
-	"freqShowAdsRewardAfterShowInter": 2,
-	"intervalAdsShowRewardInter": 1,
+	"freqShowAdsRewardAfterShowInter": 5,
+	"intervalAdsShowRewardInter": 5,
     "intervalAdsInter": 60000,
     "intervalRefreshConfig": 900000,
 	"showAdsOnHomePage": 1,
