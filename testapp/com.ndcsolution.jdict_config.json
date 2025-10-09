@@ -2,7 +2,7 @@
   "appInfo": {
 	"version_code": 74,
 	"day_of_upgrade_app": 3,
-	"message_upgrade_app": "A new version of the app is available. Please update to the latest version for the best experience. Added writing kanji feature"
+	"message_upgrade_app": "<b><u>Message</u></b></br></br>A new version of the app is available. Please update to the latest version for the best experience.</br> <ul><li>Added writing kanji feature</li><li>Added Hiragana & Katakana alphabet memory practice</li><li>Added Japanese Podcast listening feature</li><li>Improve the performance for the app</li></ul>"
   },
   "adsProb": {
     "banner": 1,
