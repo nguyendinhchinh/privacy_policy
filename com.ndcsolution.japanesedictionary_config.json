@@ -9,7 +9,7 @@
     "interstitial": 0.5,
     "native": 1,
     "adpress": 3000,
-	"freqShowAdsRewardAfterShowInter": 5,
+	"freqShowAdsRewardAfterShowInter": 50,
 	"intervalAdsShowRewardInter": 5,
     "intervalAdsInter": 70000,
     "intervalRefreshConfig": 900000,
