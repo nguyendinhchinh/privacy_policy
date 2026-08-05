@@ -56,6 +56,9 @@
       "request_name": "http://dws2.voicetext.jp/tomcat/servlet/vt",
       "request_file": "http://dws2.voicetext.jp/ASLCLCLVVS/JMEJSYGDCHMSMHSRKPJL/"
   },
+  "api_config": {
+      "gemini_model_name": "gemini-3.6-flash"
+  },
   "mazii_url": "http://mazii.net/api/",
   "ir": false
 }
