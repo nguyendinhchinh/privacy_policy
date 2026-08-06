@@ -1,5 +1,17 @@
 {
   "appInfo": {
+	"android": {
+        "app_store_id": "com.ndcsolution.jdict",
+		"version_code": 73,
+		"day_of_upgrade_app": 1,
+		"message_upgrade_app": "A new version of the app is available. Please update to the latest version for the best experience.<br>- Added writing kanji feature<br>- Added Hiragana & Katakana alphabet memory practice<br>- Added Japanese Podcast listening feature<br>- Improve the performance for the app"
+	},
+	"ios": {
+		"app_store_id": "00000000-00",
+		"version_code": 73,
+		"day_of_upgrade_app": 1,
+		"message_upgrade_app": "A new version of the app is available. Please update to the latest version for the best experience.<br>- Added writing kanji feature<br>- Added Hiragana & Katakana alphabet memory practice<br>- Added Japanese Podcast listening feature<br>- Improve the performance for the app"
+	},
 	"version_code": 73,
 	"day_of_upgrade_app": 1,
 	"message_upgrade_app": "A new version of the app is available. Please update to the latest version for the best experience.<br>- Added writing kanji feature<br>- Added Hiragana & Katakana alphabet memory practice<br>- Added Japanese Podcast listening feature<br>- Improve the performance for the app"
@@ -55,6 +67,9 @@
   "audio": {
       "request_name": "http://dws2.voicetext.jp/tomcat/servlet/vt",
       "request_file": "http://dws2.voicetext.jp/ASLCLCLVVS/JMEJSYGDCHMSMHSRKPJL/"
+  },
+  "api_config": {
+      "gemini_model_name": "gemini-3.6-flash"
   },
   "mazii_url": "http://mazii.net/api/",
   "ir": false
