@@ -1,17 +1,17 @@
 {
   "appInfo": {
-	"version_code": 73,
-	"day_of_upgrade_app": 1,
-	"message_upgrade_app": "A new version of the app is available. Please update to the latest version for the best experience.<br>- Added writing kanji feature<br>- Added Hiragana & Katakana alphabet memory practice<br>- Added Japanese Podcast listening feature<br>- Improve the performance for the app"
-  },
-  "androidAppInfo": {
-	"app_store_id": "com.ndcsolution.jdict",
-	"version_code": 73,
-	"day_of_upgrade_app": 1,
-	"message_upgrade_app": "A new version of the app is available. Please update to the latest version for the best experience.<br>- Added writing kanji feature<br>- Added Hiragana & Katakana alphabet memory practice<br>- Added Japanese Podcast listening feature<br>- Improve the performance for the app"
-  },
-  "iOSAppInfo": {
-	"app_store_id": "00000000-00",
+	"android": {
+        "app_store_id": "com.ndcsolution.jdict",
+		"version_code": 73,
+		"day_of_upgrade_app": 1,
+		"message_upgrade_app": "A new version of the app is available. Please update to the latest version for the best experience.<br>- Added writing kanji feature<br>- Added Hiragana & Katakana alphabet memory practice<br>- Added Japanese Podcast listening feature<br>- Improve the performance for the app"
+	},
+	"ios": {
+		"app_store_id": "00000000-00",
+		"version_code": 73,
+		"day_of_upgrade_app": 1,
+		"message_upgrade_app": "A new version of the app is available. Please update to the latest version for the best experience.<br>- Added writing kanji feature<br>- Added Hiragana & Katakana alphabet memory practice<br>- Added Japanese Podcast listening feature<br>- Improve the performance for the app"
+	},
 	"version_code": 73,
 	"day_of_upgrade_app": 1,
 	"message_upgrade_app": "A new version of the app is available. Please update to the latest version for the best experience.<br>- Added writing kanji feature<br>- Added Hiragana & Katakana alphabet memory practice<br>- Added Japanese Podcast listening feature<br>- Improve the performance for the app"
