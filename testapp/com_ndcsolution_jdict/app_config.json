@@ -70,6 +70,8 @@
   },
   "api_config": {
       "gemini_model_name": "gemini-3.6-flash",
+	  "db_url": "https://pub-09d34f1bc4d144fc8f019664d6a3b02d.r2.dev",
+	  "db_manifest_url": "https://pub-09d34f1bc4d144fc8f019664d6a3b02d.r2.dev/db_manifest.json",
       "config_podcast_url": "https://raw.githubusercontent.com/nguyendinhchinh/privacy_policy/master/testapp/podcast_rss.json",
       "config_podcast_url_2": "https://ndc.id.vn/testapp/podcast_rss.json"
   },
