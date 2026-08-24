@@ -27,7 +27,7 @@
     "intervalRefreshConfig": 900000,
 	"showAdsOnHomePage": 1,
     "showAdsWhenResume": 1,
-	"allowShowRewardAds": 0,
+	"allowShowRewardAds": 1,
     "exchangeCoinsToFreeDay": 10,
 	"intervalCallConsent": 5,
 	"testDeviceIds": "D03C36835808C45E6687600434A8BB1B"
