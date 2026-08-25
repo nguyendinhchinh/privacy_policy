@@ -13,6 +13,7 @@
 		"message_upgrade_app": "A new version of the iOS app is available. Please update to the latest version for the best experience.<br>- Added writing kanji feature<br>- Added Hiragana & Katakana alphabet memory practice<br>- Added Japanese Podcast listening feature<br>- Improve the performance for the app"
 	},
 	"version_code": 73,
+	"version_key": "bb4aba0633e187d42afb56ac43d605af",
 	"day_of_upgrade_app": 1,
 	"message_upgrade_app": "A new version of the app is available. Please update to the latest version for the best experience.<br>- Added writing kanji feature<br>- Added Hiragana & Katakana alphabet memory practice<br>- Added Japanese Podcast listening feature<br>- Improve the performance for the app"
   },
