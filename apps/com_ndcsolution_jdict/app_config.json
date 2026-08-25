@@ -69,6 +69,7 @@
       "request_file": "http://dws2.voicetext.jp/ASLCLCLVVS/JMEJSYGDCHMSMHSRKPJL/"
   },
   "api_config": {
+	  "ai_history_turns": 2,
       "gemini_model_name": "gemini-3.6-flash",
       "chatgpt_model_name": "gpt-4o-mini",
 	  "claude_model_name": "claude-haiku-4-5",
