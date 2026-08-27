@@ -13,6 +13,7 @@
 		"message_upgrade_app": "A new version of the iOS app is available. Please update to the latest version for the best experience.<br>- Added writing kanji feature<br>- Added Hiragana & Katakana alphabet memory practice<br>- Added Japanese Podcast listening feature<br>- Improve the performance for the app"
 	},
 	"version_code": 73,
+	"version_key": "bb4aba0633e187d42afb56ac43d605af",
 	"day_of_upgrade_app": 1,
 	"message_upgrade_app": "A new version of the app is available. Please update to the latest version for the best experience.<br>- Added writing kanji feature<br>- Added Hiragana & Katakana alphabet memory practice<br>- Added Japanese Podcast listening feature<br>- Improve the performance for the app"
   },
@@ -70,7 +71,7 @@
   },
   "api_config": {
 	  "ai_history_turns": 2,
-      "gemini_model_name": "gemini-3.6-flash",
+      "gemini_model_name": "gemini-3.5-flash-lite",
       "chatgpt_model_name": "gpt-4o-mini",
 	  "claude_model_name": "claude-haiku-4-5",
 	  "deepseek_model_name": "deepseek-v4-flash",
