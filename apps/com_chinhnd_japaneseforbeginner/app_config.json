@@ -1,21 +1,20 @@
 {
   "appInfo": {
 	"android": {
-        "app_store_id": "com.ndcsolution.jdict",
-		"version_code": 73,
+        "app_store_id": "com.chinhnd.japaneseforbeginner",
+		"version_code": 1,
 		"day_of_upgrade_app": 1,
 		"message_upgrade_app": "A new version of the Android app is available. Please update to the latest version for the best experience.<br>- Added writing kanji feature<br>- Added Hiragana & Katakana alphabet memory practice<br>- Added Japanese Podcast listening feature<br>- Improve the performance for the app"
 	},
 	"ios": {
 		"app_store_id": "00000000-00",
-		"version_code": 73,
+		"version_code": 1,
 		"day_of_upgrade_app": 1,
 		"message_upgrade_app": "A new version of the iOS app is available. Please update to the latest version for the best experience.<br>- Added writing kanji feature<br>- Added Hiragana & Katakana alphabet memory practice<br>- Added Japanese Podcast listening feature<br>- Improve the performance for the app"
 	},
-	"version_code": 73,
+	"version_code": 1,
 	"version_key": "bb4aba0633e187d42afb56ac43d605af",
-	"day_of_upgrade_app": 1,
-	"message_upgrade_app": "A new version of the app is available. Please update to the latest version for the best experience.<br>- Added writing kanji feature<br>- Added Hiragana & Katakana alphabet memory practice<br>- Added Japanese Podcast listening feature<br>- Improve the performance for the app"
+	"day_of_upgrade_app": 5,
   },
   "adsProb": {
     "banner": 1,
@@ -24,7 +23,7 @@
     "adpress": 3000,
 	"freqShowAdsRewardAfterShowInter": 50,
 	"intervalAdsShowRewardInter": 5,
-    "intervalAdsInter": 70000,
+    "intervalAdsInter": 60000,
     "intervalRefreshConfig": 900000,
 	"showAdsOnHomePage": 1,
     "showAdsWhenResume": 1,
@@ -70,19 +69,20 @@
       "request_file": "http://dws2.voicetext.jp/ASLCLCLVVS/JMEJSYGDCHMSMHSRKPJL/"
   },
   "api_config": {
-      "ai_history_turns": 2,
-      "ai_tutor_free_tier_enabled": 1,
+	  "ai_history_turns": 2,
+	  "ai_tutor_free_tier_enabled": 1,
       "gemini_model_name": "gemini-3.5-flash-lite",
-      "chatgpt_model_name": "gpt-4o-mini",
-      "claude_model_name": "claude-haiku-4-5",
-      "deepseek_model_name": "deepseek-v4-flash",
-      "db_manifest_url": "https://pub-09d34f1bc4d144fc8f019664d6a3b02d.r2.dev/",
-      "config_podcast_url": "https://raw.githubusercontent.com/nguyendinhchinh/privacy_policy/master/apps/podcast_rss.json",
-      "config_podcast_url_2": "https://ndc.id.vn/apps/podcast_rss.json"
-      "ai_proxy_url": "https://jdict-ai-proxy.dinhchinh-ndc.workers.dev",
-      "ai_grammar_chat_proxy_url": "https://jdict-ai-proxy.dinhchinh-ndc.workers.dev",
-      "ai_tutor_chat_proxy_url": "https://jdict-ai-proxy.dinhchinh-ndc.workers.dev",
-      "ai_learn_step_proxy_url": "https://jdict-ai-proxy.dinhchinh-ndc.workers.dev"
+	  "chatgpt_model_name": "gpt-4o-mini",
+	  "claude_model_name": "claude-haiku-4-5",
+	  "deepseek_model_name": "deepseek-v4-flash",
+	  "db_manifest_url": "https://pub-09d34f1bc4d144fc8f019664d6a3b02d.r2.dev/",
+      "config_podcast_url": "https://raw.githubusercontent.com/nguyendinhchinh/privacy_policy/master/testapp/podcast_rss.json",
+      "config_podcast_url_2": "https://ndc.id.vn/testapp/podcast_rss.json",
+      "listen_audio_base_url": "https://ndc.id.vn/app/"
+	  "ai_proxy_url": "https://jdict-ai-proxy.dinhchinh-ndc.workers.dev/api/chat",
+      "ai_grammar_chat_proxy_url": "https://jdict-ai-proxy.dinhchinh-ndc.workers.dev/api/grammar-chat",
+      "ai_tutor_chat_proxy_url": "https://jdict-ai-proxy.dinhchinh-ndc.workers.dev/api/tutor-chat",
+      "ai_learn_step_proxy_url": "https://jdict-ai-proxy.dinhchinh-ndc.workers.dev/api/learn-step"
   },
   "mazii_url": "http://mazii.net/api/",
   "ir": false
