@@ -2,17 +2,16 @@
   "appInfo": {
 	"android": {
         "app_store_id": "com.chinhnd.japaneseforbeginner",
-		"version_code": 1,
+		"version_code": 78,
 		"day_of_upgrade_app": 1,
 		"message_upgrade_app": "A new version of the Android app is available. Please update to the latest version for the best experience.<br>- Added writing kanji feature<br>- Added Hiragana & Katakana alphabet memory practice<br>- Added Japanese Podcast listening feature<br>- Improve the performance for the app"
 	},
 	"ios": {
 		"app_store_id": "00000000-00",
-		"version_code": 1,
+		"version_code": 78,
 		"day_of_upgrade_app": 1,
 		"message_upgrade_app": "A new version of the iOS app is available. Please update to the latest version for the best experience.<br>- Added writing kanji feature<br>- Added Hiragana & Katakana alphabet memory practice<br>- Added Japanese Podcast listening feature<br>- Improve the performance for the app"
 	},
-	"version_code": 1,
 	"version_key": "bb4aba0633e187d42afb56ac43d605af",
 	"day_of_upgrade_app": 5,
   },
@@ -78,7 +77,7 @@
 	  "db_manifest_url": "https://pub-09d34f1bc4d144fc8f019664d6a3b02d.r2.dev/",
       "config_podcast_url": "https://raw.githubusercontent.com/nguyendinhchinh/privacy_policy/master/testapp/podcast_rss.json",
       "config_podcast_url_2": "https://ndc.id.vn/testapp/podcast_rss.json",
-      "listen_audio_base_url": "https://ndc.id.vn/testapp/audio/",
+	  "listen_audio_base_url": "https://ndc.id.vn/testapp/audio/",
       "listen_video_base_url": "https://ndc.id.vn/testapp/video/",
 	  "ai_proxy_url": "https://jdict-ai-proxy.dinhchinh-ndc.workers.dev/api/chat",
       "ai_grammar_chat_proxy_url": "https://jdict-ai-proxy.dinhchinh-ndc.workers.dev/api/grammar-chat",
