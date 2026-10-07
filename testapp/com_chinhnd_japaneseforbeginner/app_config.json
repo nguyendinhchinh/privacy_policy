@@ -4,7 +4,7 @@
         "app_store_id": "com.chinhnd.japaneseforbeginner",
 		"version_code": 78,
 		"day_of_upgrade_app": 1,
-		"message_upgrade_app": "A new version of the Android app is available. Please update to the latest version for the best experience.<br>- Added writing kanji feature<br>- Added Hiragana & Katakana alphabet memory practice<br>- Added Japanese Podcast listening feature<br>- Improve the performance for the app"
+		"message_upgrade_app": "A new version of the Android app is available. Please update to the latest version for the best experience.<br>- Added writing kanji feature<br>- Added Hiragana & Katakana alphabet memory practice<br>- Added Japanese Podcast listening feature<br>- Improve the performance for the app<br> - <a href='https://ndc-corp.com'>Access the NDC website.</a>"
 	},
 	"ios": {
 		"app_store_id": "00000000-00",
