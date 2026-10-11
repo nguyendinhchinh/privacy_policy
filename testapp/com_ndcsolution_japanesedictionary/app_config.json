@@ -86,6 +86,10 @@
       "ai_tutor_chat_proxy_url": "https://jdict-ai-proxy.dinhchinh-ndc.workers.dev/api/tutor-chat",
       "ai_learn_step_proxy_url": "https://jdict-ai-proxy.dinhchinh-ndc.workers.dev/api/learn-step"
   },
+  	"ui_config": {
+		"theme_red_original_enabled": 0,
+		"theme_crimson_enabled": 1
+	},
   "mazii_url": "http://mazii.net/api/",
   "ir": false
 }

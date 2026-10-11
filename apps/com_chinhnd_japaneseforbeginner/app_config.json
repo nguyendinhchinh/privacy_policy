@@ -84,6 +84,11 @@
       "ai_tutor_chat_proxy_url": "https://jdict-ai-proxy.dinhchinh-ndc.workers.dev/api/tutor-chat",
       "ai_learn_step_proxy_url": "https://jdict-ai-proxy.dinhchinh-ndc.workers.dev/api/learn-step"
   },
+  "dbUpdate": {
+    "force": 0,
+    "message": "New learning content is available.<br>- Updated vocabulary examples and corrected translations<br>Please update now to get the latest content.",
+    "day_of_remind": 5
+  },
   "mazii_url": "http://mazii.net/api/",
   "ir": false
 }
