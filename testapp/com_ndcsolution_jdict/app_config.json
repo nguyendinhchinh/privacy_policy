@@ -87,6 +87,8 @@
       "ai_learn_step_proxy_url": "https://jdict-ai-proxy.dinhchinh-ndc.workers.dev/api/learn-step"
   },
   "ui_config": {
+    "theme_default_enabled": 1,
+    "theme_red_enabled": 1,
     "theme_red_original_enabled": 1,
     "theme_crimson_enabled": 0
   },
