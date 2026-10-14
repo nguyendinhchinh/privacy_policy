@@ -24,7 +24,7 @@
     "adpress": 3000,
 	"freqShowAdsRewardAfterShowInter": 15,
 	"intervalAdsShowRewardInter": 5,
-    "intervalAdsInter": 70000,
+    "intervalAdsInter": 90000,
     "intervalRefreshConfig": 900000,
 	"showAdsOnHomePage": 1,
     "showAdsWhenResume": 1,

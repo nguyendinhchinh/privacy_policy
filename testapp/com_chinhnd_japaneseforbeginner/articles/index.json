@@ -1,0 +1,886 @@
+{
+  "schemaVersion": 1,
+  "catalogVersion": "2026.10.14",
+  "articles": [
+    {
+      "id": 40,
+      "slug": "after-n1",
+      "level": 1,
+      "category": "general",
+      "title": {
+        "vi": "Sau N1: giữ tiếng Nhật sống khi không còn kỳ thi",
+        "en": "After N1: keeping your Japanese alive when the exam is over",
+        "ja": "N1のあとで：試験が終わっても日本語を保つ方法"
+      },
+      "summary": {
+        "vi": "Vì sao tiếng Nhật dễ “gỉ” khi không còn mục tiêu thi, ba kênh để giữ (đọc, nghe, viết nói), cách chọn mục tiêu mới và một thói quen 20 phút mỗi ngày. Kèm lỗi dừng hẳn sau khi đạt mục tiêu.",
+        "en": "Why Japanese rusts once the exam goal is gone, three channels to keep it going (reading, listening, speaking and writing), how to choose a new goal and a 20-minute daily habit. With the mistake of stopping completely after reaching the goal."
+      },
+      "minutes": 5,
+      "updated": "2026-10-14",
+      "cover": "続",
+      "premium": false,
+      "hasQuiz": true,
+      "file": "n1/after-n1.md",
+      "images": []
+    },
+    {
+      "id": 39,
+      "slug": "oseji-kenson",
+      "level": 1,
+      "category": "culture",
+      "title": {
+        "vi": "お世辞 và 謙遜: khi khiêm tốn đi quá xa",
+        "en": "お世辞 and 謙遜: when modesty goes too far",
+        "ja": "お世辞と謙遜：謙遜しすぎるとき"
+      },
+      "summary": {
+        "vi": "Vì sao người Nhật thường phủ nhận lời khen, cách phân biệt lời khen thật với lời khen xã giao, khi nào khiêm tốn trở nên khó hiểu hoặc gây khó chịu, và cách đáp lại lời khen một cách cân bằng. Đây là xu hướng, không phải luật.",
+        "en": "Why people in Japan often deflect a compliment, how to tell a real compliment from a polite one, when modesty becomes confusing or irritating, and how to answer a compliment in a balanced way. These are tendencies, not rules."
+      },
+      "minutes": 6,
+      "updated": "2026-10-14",
+      "cover": "謙",
+      "premium": false,
+      "hasQuiz": true,
+      "file": "n1/oseji-kenson.md",
+      "images": []
+    },
+    {
+      "id": 38,
+      "slug": "sobo-no-tegami",
+      "level": 1,
+      "category": "reading",
+      "title": {
+        "vi": "Truyện ngắn N1: 祖母の手紙 (Bức thư của bà), có chú giải từ mới",
+        "en": "N1 short story: 祖母の手紙 (Grandmother's letter), with glossed words",
+        "ja": "やさしい読みもの：「祖母の手紙」"
+      },
+      "summary": {
+        "vi": "Truyện ngắn ba đoạn ở mức N1, viết bằng thể thường: một chuyến về thăm ngôi nhà của bà. Mỗi đoạn có từ mới, bản dịch và mẫu câu N1, cuối bài có ba câu hỏi đọc hiểu.",
+        "en": "A three-part short story at N1 level, in plain form: a visit to a grandmother's house. Each part has new words, a translation and N1 patterns, with three comprehension questions at the end."
+      },
+      "minutes": 6,
+      "updated": "2026-10-14",
+      "cover": "手",
+      "premium": true,
+      "hasQuiz": true,
+      "file": "n1/sobo-no-tegami.md",
+      "images": []
+    },
+    {
+      "id": 37,
+      "slug": "start-n1",
+      "level": 1,
+      "category": "jlpt",
+      "title": {
+        "vi": "Bắt đầu ôn JLPT N1: đọc dài, nghe và cách chia thời gian",
+        "en": "Starting JLPT N1: long reading, listening and managing your time",
+        "ja": "JLPT N1の準備：長文読解・聴解・時間配分"
+      },
+      "summary": {
+        "vi": "N1 khác N2 ở chỗ nào, các phần được chấm điểm, năm mảng cần học, kế hoạch 16 tuần và cách chia thời gian khi bài đọc dài. Bài không nêu ngày thi, lệ phí hay điểm đạt vì những thứ đó đổi: hãy xem thông báo chính thức.",
+        "en": "How N1 differs from N2, the sections that are scored, the five areas to study, a 16-week plan and how to share your time when the reading is long. No exam dates, fees or pass marks: they change, so check the official announcement."
+      },
+      "minutes": 7,
+      "updated": "2026-10-14",
+      "cover": "N1",
+      "premium": false,
+      "hasQuiz": true,
+      "file": "n1/start-n1.md",
+      "images": []
+    },
+    {
+      "id": 36,
+      "slug": "n1-kanji-by-sound",
+      "level": 1,
+      "category": "kanji",
+      "title": {
+        "vi": "Học kanji N1 theo bộ thủ và âm: công thức “nghĩa + âm” cho cả nhóm chữ",
+        "en": "Studying N1 kanji by radical and sound: the “meaning + sound” formula for a whole group",
+        "ja": "N1の漢字を部首と音で覚える：意味＋音の公式"
+      },
+      "summary": {
+        "vi": "Rất nhiều chữ kanji gồm một bộ thủ chỉ nghĩa và một phần chỉ âm. Công thức này, ba nhóm âm On hay gặp (包, 其, 古), cách học qua từ thay vì chữ lẻ và một lịch 5 chữ mỗi ngày. Kèm lỗi viết một chữ 50 lần.",
+        "en": "Many kanji consist of a radical for meaning and a part for sound. This formula, three common On-reading groups (包, 其, 古), studying through words instead of single characters and a 5-characters-a-day schedule. With the mistake of writing one character 50 times."
+      },
+      "minutes": 8,
+      "updated": "2026-10-14",
+      "cover": "音",
+      "premium": true,
+      "hasQuiz": true,
+      "file": "n1/n1-kanji-by-sound.md",
+      "images": []
+    },
+    {
+      "id": 35,
+      "slug": "yojijukugo-eight",
+      "level": 1,
+      "category": "vocabulary",
+      "title": {
+        "vi": "Thành ngữ bốn chữ (四字熟語): 8 câu người Việt đọc được nhờ Hán Việt",
+        "en": "Four-character idioms (四字熟語): eight you can read thanks to Sino-Vietnamese",
+        "ja": "四字熟語：ベトナム人が漢越語で読める8つ"
+      },
+      "summary": {
+        "vi": "Tám thành ngữ bốn chữ hay gặp, nhóm theo chủ đề. Cách đoán nghĩa qua Hán Việt, mẹo nhìn ra cấu trúc (số đếm, hai cặp), và lỗi dùng 自画自賛 như lời khen.",
+        "en": "Eight common four-character idioms grouped by theme. How to guess the meaning through Sino-Vietnamese, how to spot the structure (numbers, two pairs), and the mistake of using 自画自賛 as praise."
+      },
+      "minutes": 6,
+      "updated": "2026-10-14",
+      "cover": "熟",
+      "premium": false,
+      "hasQuiz": true,
+      "file": "n1/yojijukugo-eight.md",
+      "images": []
+    },
+    {
+      "id": 34,
+      "slug": "start-end-extent",
+      "level": 1,
+      "category": "grammar",
+      "title": {
+        "vi": "Thông báo và tin tức: を皮切りに, をもって, に至るまで (bắt đầu, kết thúc, phạm vi)",
+        "en": "Announcements and news: を皮切りに, をもって, に至るまで (start, end, extent)",
+        "ja": "「を皮切りに」「をもって」「に至るまで」：始まり・終わり・範囲"
+      },
+      "summary": {
+        "vi": "Ba mẫu văn viết trang trọng hay gặp trong thông báo và bản tin: một việc mở đầu cả loạt, một mốc kết thúc, và phạm vi rộng đến cả những chi tiết nhỏ. Kèm lỗi dùng を皮切りに cho một sự kết thúc.",
+        "en": "Three formal written patterns common in announcements and news: an event that opens a series, a point of ending, and an extent reaching even the smallest details. With the mistake of using を皮切りに for an ending."
+      },
+      "minutes": 7,
+      "updated": "2026-10-14",
+      "cover": "切",
+      "premium": false,
+      "hasQuiz": true,
+      "file": "n1/start-end-extent.md",
+      "images": []
+    },
+    {
+      "id": 33,
+      "slug": "cannot-help-four-ways",
+      "level": 1,
+      "category": "grammar",
+      "title": {
+        "vi": "Bốn cách nói “không thể không”: ざるを得ない, ずにはいられない, ずにはおかない, ずにはすまない",
+        "en": "Four ways to say “cannot help but”: ざるを得ない, ずにはいられない, ずにはおかない, ずにはすまない",
+        "ja": "「ざるを得ない」「ずにはいられない」「ずにはおかない」「ずにはすまない」"
+      },
+      "summary": {
+        "vi": "Bốn mẫu cùng dịch là “không thể không”, khác nhau ở điều khiến việc đó không tránh được: hoàn cảnh, cảm xúc, sức tác động hay nghĩa vụ. Một câu hỏi để chọn đúng, kèm lỗi dùng ずにはおかない cho cảm xúc của chính mình.",
+        "en": "Four patterns that all translate as “cannot help but”, differing in what makes the act unavoidable: circumstances, feeling, impact or obligation. One question to choose, with the mistake of using ずにはおかない for your own feeling."
+      },
+      "minutes": 8,
+      "updated": "2026-10-14",
+      "cover": "得",
+      "premium": true,
+      "hasQuiz": true,
+      "file": "n1/cannot-help-four-ways.md",
+      "images": []
+    },
+    {
+      "id": 32,
+      "slug": "first-news-site",
+      "level": 2,
+      "category": "general",
+      "title": {
+        "vi": "Đọc trang tin tiếng Nhật lần đầu: tiêu đề và cách chọn bài",
+        "en": "Reading a Japanese news site for the first time: headlines and how to choose",
+        "ja": "初めて日本語のニュースサイトを読む：見出しと記事の選び方"
+      },
+      "summary": {
+        "vi": "Ba bước để đọc tin tiếng Nhật mà không bị ngợp: chọn chủ đề quen, đọc tiêu đề trước, rồi chỉ đọc đoạn mở đầu. Cách đọc tiêu đề viết gọn và lỗi tra từ điển ngay từ câu đầu tiên.",
+        "en": "Three steps to read Japanese news without being overwhelmed: pick a familiar topic, read the headline first, then read only the opening paragraph. How to read a compressed headline and the mistake of looking up words from the very first sentence."
+      },
+      "minutes": 5,
+      "updated": "2026-10-14",
+      "cover": "報",
+      "premium": false,
+      "hasQuiz": true,
+      "file": "n2/first-news-site.md",
+      "images": []
+    },
+    {
+      "id": 31,
+      "slug": "nemawashi-kuuki",
+      "level": 2,
+      "category": "culture",
+      "title": {
+        "vi": "Văn hóa công sở Nhật: 根回し và 空気を読む",
+        "en": "Japanese office culture: 根回し and 空気を読む",
+        "ja": "日本の職場文化：根回しと「空気を読む」"
+      },
+      "summary": {
+        "vi": "Hai khái niệm giải thích vì sao họp ở Nhật thường “đã quyết từ trước”, và vì sao có những điều không được nói ra. Cách nhận biết và những câu nói hữu ích cho người nước ngoài. Đây là xu hướng, không phải luật.",
+        "en": "Two ideas that explain why decisions in Japanese meetings are often “settled beforehand” and why some things are left unsaid. How to recognise them and useful phrases for a foreigner. These are tendencies, not rules."
+      },
+      "minutes": 6,
+      "updated": "2026-10-14",
+      "cover": "空",
+      "premium": false,
+      "hasQuiz": true,
+      "file": "n2/nemawashi-kuuki.md",
+      "images": []
+    },
+    {
+      "id": 30,
+      "slug": "ekimae-no-honya",
+      "level": 2,
+      "category": "reading",
+      "title": {
+        "vi": "Truyện ngắn N2: 駅前の本屋 (Hiệu sách trước ga), có chú giải từ mới",
+        "en": "N2 short story: 駅前の本屋 (The bookshop by the station), with glossed words",
+        "ja": "やさしい読みもの：「駅前の本屋」"
+      },
+      "summary": {
+        "vi": "Truyện ngắn ba đoạn ở mức N2, viết bằng thể thường: một hiệu sách cũ sắp đóng cửa. Mỗi đoạn có từ mới, bản dịch và mẫu câu N2, cuối bài có ba câu hỏi đọc hiểu.",
+        "en": "A three-part short story at N2 level, in plain form: an old bookshop about to close. Each part has new words, a translation and N2 patterns, with three comprehension questions at the end."
+      },
+      "minutes": 7,
+      "updated": "2026-10-14",
+      "cover": "本",
+      "premium": true,
+      "hasQuiz": true,
+      "file": "n2/ekimae-no-honya.md",
+      "images": []
+    },
+    {
+      "id": 29,
+      "slug": "start-n2",
+      "level": 2,
+      "category": "jlpt",
+      "title": {
+        "vi": "Bắt đầu ôn JLPT N2: khác N3 ở đâu và kế hoạch 12 tuần",
+        "en": "Starting JLPT N2: how it differs from N3, and a 12-week plan",
+        "ja": "JLPT N2の準備：N3との違いと12週間の計画"
+      },
+      "summary": {
+        "vi": "N2 khác N3 ở chỗ nào, các phần được chấm điểm, năm mảng cần học, kế hoạch 12 tuần và cách làm bài. Bài không nêu ngày thi hay lệ phí vì những thứ đó đổi hằng năm: hãy xem thông báo chính thức.",
+        "en": "How N2 differs from N3, the sections that are scored, the five areas to study, a 12-week plan and how to approach the questions. No exam dates or fees: they change every year, so check the official announcement."
+      },
+      "minutes": 7,
+      "updated": "2026-10-14",
+      "cover": "N2",
+      "premium": false,
+      "hasQuiz": true,
+      "file": "n2/start-n2.md",
+      "images": []
+    },
+    {
+      "id": 28,
+      "slug": "homophones-kanji",
+      "level": 2,
+      "category": "kanji",
+      "title": {
+        "vi": "Cùng âm, khác từ: phân biệt 以外/意外, 関心/感心, 機会/機械, 意志/意思/医師",
+        "en": "Same sound, different word: telling 以外/意外, 関心/感心, 機会/機械, 意志/意思/医師 apart",
+        "ja": "同音異義語の見分け方：以外/意外、関心/感心、機会/機械"
+      },
+      "summary": {
+        "vi": "Tiếng Nhật có rất nhiều từ phát âm giống hệt nhau nhưng viết và nghĩa khác. Bốn nhóm hay gặp nhất, cách dùng âm Hán Việt để tách chúng, và lỗi viết 関心 khi muốn nói “thán phục”.",
+        "en": "Japanese has many words that sound identical but are written and mean differently. The four most common groups, how to use the Sino-Vietnamese sound to separate them, and the mistake of writing 関心 when you mean “admire”."
+      },
+      "minutes": 7,
+      "updated": "2026-10-14",
+      "cover": "同",
+      "premium": true,
+      "hasQuiz": true,
+      "file": "n2/homophones-kanji.md",
+      "images": []
+    },
+    {
+      "id": 27,
+      "slug": "news-economy-words",
+      "level": 2,
+      "category": "vocabulary",
+      "title": {
+        "vi": "Từ vựng tin tức: 12 từ gặp trong mọi bản tin kinh tế",
+        "en": "News vocabulary: twelve words in every economy report",
+        "ja": "ニュースの経済用語：よく出る12語"
+      },
+      "summary": {
+        "vi": "Mười hai từ về giá cả, tiền tệ và thương mại, xếp thành ba nhóm, phần lớn là các cặp đối nghĩa. Cách đọc tiêu đề tin tức ngắn gọn, và lỗi nhầm 円安 với 円高 khi nói về chuyến đi Nhật.",
+        "en": "Twelve words about prices, currency and trade, arranged mostly as opposite pairs. How to read a short news headline, and the mistake of mixing up 円安 and 円高 when talking about a trip to Japan."
+      },
+      "minutes": 6,
+      "updated": "2026-10-14",
+      "cover": "経",
+      "premium": false,
+      "hasQuiz": true,
+      "file": "n2/news-economy-words.md",
+      "images": []
+    },
+    {
+      "id": 26,
+      "slug": "although-four-ways",
+      "level": 2,
+      "category": "grammar",
+      "title": {
+        "vi": "Bốn cách nói “mặc dù” ở N2: のに, にもかかわらず, ものの, くせに",
+        "en": "Four ways to say “although” at N2: のに, にもかかわらず, ものの, くせに",
+        "ja": "「のに」「にもかかわらず」「ものの」「くせに」の使い分け"
+      },
+      "summary": {
+        "vi": "Bốn mẫu cùng dịch là “mặc dù”, nhưng khác nhau ở cảm xúc, mức trang trọng và người bị nói đến. Một câu hỏi để chọn đúng, và lỗi dùng のに trong lời cảm ơn trang trọng.",
+        "en": "Four patterns that all translate as “although”, differing in feeling, formality and who is being talked about. One question to choose correctly, and the mistake of using のに in a formal thank-you."
+      },
+      "minutes": 7,
+      "updated": "2026-10-14",
+      "cover": "然",
+      "premium": false,
+      "hasQuiz": true,
+      "file": "n2/although-four-ways.md",
+      "images": []
+    },
+    {
+      "id": 25,
+      "slug": "wake-three-ways",
+      "level": 2,
+      "category": "grammar",
+      "title": {
+        "vi": "わけだ, わけではない, わけにはいかない: ba cách dùng của “わけ”",
+        "en": "わけだ, わけではない, わけにはいかない: three uses of “わけ”",
+        "ja": "「わけだ」「わけではない」「わけにはいかない」の使い分け"
+      },
+      "summary": {
+        "vi": "Một chữ わけ, ba nghĩa khác hẳn nhau: “thảo nào”, “không hẳn là” và “không thể”. Cách phân biệt qua câu hỏi bạn đang trả lời, kèm lỗi dùng わけにはいかない khi chỉ muốn nói “không làm được”.",
+        "en": "One word わけ, three very different meanings: “no wonder”, “not necessarily” and “cannot (in good conscience)”. How to tell them apart by the question you are answering, with the mistake of using わけにはいかない for plain inability."
+      },
+      "minutes": 7,
+      "updated": "2026-10-14",
+      "cover": "訳",
+      "premium": true,
+      "hasQuiz": true,
+      "file": "n2/wake-three-ways.md",
+      "images": []
+    },
+    {
+      "id": 24,
+      "slug": "omiyage-ogaeshi",
+      "level": 3,
+      "category": "culture",
+      "title": {
+        "vi": "お土産 và お返し: văn hóa tặng quà và đáp lễ ở Nhật",
+        "en": "お土産 and お返し: gift giving and returning a gift in Japan",
+        "ja": "お土産とお返し：日本の贈り物の習慣"
+      },
+      "summary": {
+        "vi": "Vì sao người Nhật mang quà về cho đồng nghiệp sau mỗi chuyến đi, cách đáp lễ khi nhận quà, vài câu nói khi đưa và nhận quà, và những điều nên tránh. Không có quy tắc số tiền cứng.",
+        "en": "Why people in Japan bring gifts back for colleagues after a trip, how to return a gift, a few phrases for giving and receiving, and what to avoid. No fixed rules about amounts."
+      },
+      "minutes": 5,
+      "updated": "2026-10-14",
+      "cover": "贈",
+      "premium": false,
+      "hasQuiz": true,
+      "file": "n3/omiyage-ogaeshi.md",
+      "images": []
+    },
+    {
+      "id": 23,
+      "slug": "hikkoshi-no-hi",
+      "level": 3,
+      "category": "reading",
+      "title": {
+        "vi": "Truyện ngắn N3: 引っ越しの日 (Ngày chuyển nhà), có chú giải từ mới",
+        "en": "N3 short story: 引っ越しの日 (Moving day), with glossed words",
+        "ja": "やさしい読みもの：「引っ越しの日」"
+      },
+      "summary": {
+        "vi": "Truyện ngắn ba đoạn ở mức N3: một ngày chuyển nhà, một người bạn đến giúp và một người hàng xóm tốt bụng. Mỗi đoạn có từ mới, bản dịch và mẫu câu N3, cuối bài có ba câu hỏi đọc hiểu.",
+        "en": "A three-part short story at N3 level: a moving day, a friend who comes to help and a kind neighbour. Each part has new words, a translation and N3 patterns, with three comprehension questions at the end."
+      },
+      "minutes": 7,
+      "updated": "2026-10-14",
+      "cover": "家",
+      "premium": true,
+      "hasQuiz": true,
+      "file": "n3/hikkoshi-no-hi.md",
+      "images": []
+    },
+    {
+      "id": 22,
+      "slug": "radicals-six",
+      "level": 3,
+      "category": "kanji",
+      "title": {
+        "vi": "Sáu bộ thủ giúp đoán nghĩa cả nhóm chữ kanji",
+        "en": "Six radicals that help you guess a whole group of kanji",
+        "ja": "漢字の部首：6つで広がる推測の力"
+      },
+      "summary": {
+        "vi": "Sáu bộ thủ hay gặp (nước, cây, lời nói, tâm trạng, tay, di chuyển) và một mẹo thứ hai: phần còn lại của chữ thường gợi âm đọc. Kèm lỗi nhầm 持 và 待.",
+        "en": "Six common radicals (water, tree, speech, heart, hand, movement) and a second trick: the other part of a character often hints at its sound. With the 持 and 待 mix-up."
+      },
+      "minutes": 7,
+      "updated": "2026-10-14",
+      "cover": "部",
+      "premium": true,
+      "hasQuiz": true,
+      "file": "n3/radicals-six.md",
+      "images": []
+    },
+    {
+      "id": 21,
+      "slug": "sino-vietnamese-guessing",
+      "level": 3,
+      "category": "vocabulary",
+      "title": {
+        "vi": "Đoán nghĩa qua âm Hán Việt: lợi thế của người Việt và bốn từ dễ hiểu nhầm",
+        "en": "Guessing meaning through Sino-Vietnamese words: a Vietnamese learner's advantage and four words that mislead",
+        "ja": "ベトナム語の漢越語で意味を推測する：便利さと4つの落とし穴"
+      },
+      "summary": {
+        "vi": "Hàng trăm từ N3 có “người anh em” Hán Việt có nghĩa gần như giống hệt. Cách tận dụng lợi thế này, bốn từ nhìn quen nhưng nghĩa khác (勉強, 迷惑, 無理, 工夫), hai từ nhiều nghĩa và quy trình ba bước khi gặp từ mới.",
+        "en": "Hundreds of N3 words have a Sino-Vietnamese relative with almost the same meaning. How to use this advantage, four familiar-looking words with a different meaning (勉強, 迷惑, 無理, 工夫), two words with several meanings and a three-step routine for new words."
+      },
+      "minutes": 7,
+      "updated": "2026-10-14",
+      "cover": "漢",
+      "premium": true,
+      "hasQuiz": true,
+      "file": "n3/sino-vietnamese-guessing.md",
+      "images": []
+    },
+    {
+      "id": 20,
+      "slug": "n4-to-n3",
+      "level": 3,
+      "category": "general",
+      "title": {
+        "vi": "Từ N4 lên N3: vì sao thấy chững lại và cách vượt qua",
+        "en": "From N4 to N3: why progress slows and how to get past it",
+        "ja": "N4からN3へ：伸び悩む理由と抜け出し方"
+      },
+      "summary": {
+        "vi": "Ba lý do khiến việc học chậm lại ở giai đoạn này, và ba cách đổi hướng: gặp thật nhiều thay vì chỉ học mới, học ngữ pháp theo nhóm gần nghĩa, và đo tiến bộ bằng việc làm được thay vì số bài đã học.",
+        "en": "Three reasons progress slows at this stage and three ways to change direction: meeting the language a lot instead of only learning new things, learning grammar in groups of similar meaning, and measuring progress by what you can do instead of the number of lessons."
+      },
+      "minutes": 5,
+      "updated": "2026-10-14",
+      "cover": "坂",
+      "premium": false,
+      "hasQuiz": true,
+      "file": "n3/n4-to-n3.md",
+      "images": []
+    },
+    {
+      "id": 19,
+      "slug": "n3-reading-section",
+      "level": 3,
+      "category": "jlpt",
+      "title": {
+        "vi": "Phần đọc hiểu JLPT N3: đề hỏi gì và cách luyện mỗi ngày",
+        "en": "The JLPT N3 reading section: what it asks and how to practise every day",
+        "ja": "JLPT N3の読解：出題の形と毎日の練習"
+      },
+      "summary": {
+        "vi": "Các dạng bài đọc của N3, cách đọc để tìm ý thay vì dịch từng chữ, mẹo với bài tìm thông tin và một kế hoạch luyện 15 phút mỗi ngày. Không nêu ngày thi hay lệ phí.",
+        "en": "The kinds of N3 reading question, reading for the point instead of translating every word, tips for the information-search questions and a 15-minute daily practice plan. No exam dates or fees."
+      },
+      "minutes": 6,
+      "updated": "2026-10-14",
+      "cover": "読",
+      "premium": false,
+      "hasQuiz": true,
+      "file": "n3/n3-reading-section.md",
+      "images": []
+    },
+    {
+      "id": 18,
+      "slug": "keigo-basic-verbs",
+      "level": 3,
+      "category": "grammar",
+      "title": {
+        "vi": "Keigo cơ bản: 12 động từ đầu tiên và cách chọn đúng hướng",
+        "en": "Basic keigo: the first twelve verbs and how to choose the right direction",
+        "ja": "敬語の基本：最初の12の動詞と使い分け"
+      },
+      "summary": {
+        "vi": "Keigo có hai hướng: nâng người kia lên (tôn kính) hoặc hạ mình xuống (khiêm nhường). Sáu cặp động từ hay gặp nhất, hai mẫu chung cho những động từ còn lại, và lỗi “申します” người Việt hay mắc.",
+        "en": "Keigo has two directions: raising the other person (respectful) or lowering yourself (humble). The six most common verb pairs, two general patterns for the rest, and the 申します mistake Vietnamese learners make."
+      },
+      "minutes": 7,
+      "updated": "2026-10-14",
+      "cover": "敬",
+      "premium": true,
+      "hasQuiz": true,
+      "file": "n3/keigo-basic-verbs.md",
+      "images": []
+    },
+    {
+      "id": 17,
+      "slug": "souda-youda-rashii",
+      "level": 3,
+      "category": "grammar",
+      "title": {
+        "vi": "そうだ, ようだ, らしい: ba cách nói “có vẻ” và cách chọn đúng",
+        "en": "そうだ, ようだ, らしい: three ways to say “it seems” and how to choose",
+        "ja": "「そうだ」「ようだ」「らしい」の使い分け"
+      },
+      "summary": {
+        "vi": "Tiếng Việt chỉ có một chữ “có vẻ”, tiếng Nhật chia thành ba tùy bạn nói dựa trên điều gì: vẻ ngoài, tự cảm nhận hay lời nghe được. Kèm lỗi おいしいそうです người Việt hay mắc.",
+        "en": "Vietnamese has one phrase for “it seems”, Japanese splits it into three depending on what you base it on: appearance, your own impression or what you heard. With the おいしいそうです mistake Vietnamese learners make."
+      },
+      "minutes": 7,
+      "updated": "2026-10-14",
+      "cover": "様",
+      "premium": true,
+      "hasQuiz": true,
+      "file": "n3/souda-youda-rashii.md",
+      "images": []
+    },
+    {
+      "id": 16,
+      "slug": "films-and-subtitles",
+      "level": 4,
+      "category": "general",
+      "title": {
+        "vi": "Xem phim, nghe tiếng Nhật: dùng phụ đề thế nào cho có ích",
+        "en": "Watching films and listening to Japanese: using subtitles well",
+        "ja": "映画やドラマで日本語を学ぶ：字幕の使い方"
+      },
+      "summary": {
+        "vi": "Ba cách xem phim theo mục tiêu (quen tai, bắt từ mới, nhại lại), vì sao phim nói khác sách và lỗi bật phụ đề tiếng Việt cả buổi mà vẫn nghĩ mình đang học nghe.",
+        "en": "Three ways to watch by goal (getting used to the sound, catching new words, repeating after the speaker), why films sound different from textbooks, and the mistake of leaving Vietnamese subtitles on and calling it listening practice."
+      },
+      "minutes": 5,
+      "updated": "2026-10-14",
+      "cover": "映",
+      "premium": false,
+      "hasQuiz": true,
+      "file": "n4/films-and-subtitles.md",
+      "images": []
+    },
+    {
+      "id": 15,
+      "slug": "polite-refusal",
+      "level": 4,
+      "category": "culture",
+      "title": {
+        "vi": "Từ chối khéo kiểu Nhật: “ちょっと…” nghĩa là gì?",
+        "en": "Declining politely, Japanese style: what “ちょっと…” means",
+        "ja": "やんわり断る：「ちょっと…」の意味"
+      },
+      "summary": {
+        "vi": "Vì sao người Nhật ít nói “không” thẳng, cách từ chối lịch sự bằng ba bước, các câu lửng cần nhận ra khi người khác từ chối bạn, và khi nào nên nói thẳng.",
+        "en": "Why Japanese speakers seldom say a plain “no”, a three-step way to refuse politely, the soft phrases to recognise when someone declines you, and when to speak directly."
+      },
+      "minutes": 6,
+      "updated": "2026-10-14",
+      "cover": "断",
+      "premium": true,
+      "hasQuiz": true,
+      "file": "n4/polite-refusal.md",
+      "images": []
+    },
+    {
+      "id": 14,
+      "slug": "start-n4",
+      "level": 4,
+      "category": "jlpt",
+      "title": {
+        "vi": "Bắt đầu ôn JLPT N4: khác N5 ở đâu và kế hoạch 10 tuần",
+        "en": "Starting JLPT N4: how it differs from N5, and a 10-week plan",
+        "ja": "JLPT N4の準備：N5との違いと10週間の計画"
+      },
+      "summary": {
+        "vi": "N4 khác N5 ở chỗ nào, ba phần của đề, năm mảng cần học, kế hoạch 10 tuần và cách làm bài. Bài không nêu ngày thi hay lệ phí vì những thứ đó đổi hằng năm: hãy xem thông báo chính thức.",
+        "en": "How N4 differs from N5, the three parts of the test, the five areas to study, a 10-week plan and how to approach the questions. No exam dates or fees: they change every year, so check the official announcement."
+      },
+      "minutes": 6,
+      "updated": "2026-10-14",
+      "cover": "N4",
+      "premium": false,
+      "hasQuiz": true,
+      "file": "n4/start-n4.md",
+      "images": []
+    },
+    {
+      "id": 13,
+      "slug": "on-kun-readings",
+      "level": 4,
+      "category": "kanji",
+      "title": {
+        "vi": "Âm On và âm Kun: gặp một chữ kanji, nên đọc kiểu nào?",
+        "en": "On and Kun readings: which one should you expect?",
+        "ja": "音読みと訓読み：どちらで読む？"
+      },
+      "summary": {
+        "vi": "Bốn mẹo để đoán cách đọc một chữ kanji: đứng một mình, nằm trong từ ghép, đối chiếu với âm Hán Việt, và những ngoại lệ đáng nhớ. Kèm lỗi đọc Hán Việt thẳng sang âm On.",
+        "en": "Four tips for guessing how a kanji is read: standing alone, inside a compound, comparing with the Sino-Vietnamese sound, and the exceptions worth remembering. With the mistake of reading the Sino-Vietnamese sound straight into the On reading."
+      },
+      "minutes": 6,
+      "updated": "2026-10-14",
+      "cover": "音",
+      "premium": false,
+      "hasQuiz": true,
+      "file": "n4/on-kun-readings.md",
+      "images": []
+    },
+    {
+      "id": 12,
+      "slug": "ame-no-hi-no-kasa",
+      "level": 4,
+      "category": "reading",
+      "title": {
+        "vi": "Truyện ngắn N4: 雨の日のかさ (Chiếc ô ngày mưa), có chú giải từ mới",
+        "en": "N4 short story: 雨の日のかさ (The umbrella on a rainy day), with glossed words",
+        "ja": "やさしい読みもの：「雨の日のかさ」"
+      },
+      "summary": {
+        "vi": "Một truyện ngắn ba đoạn ở mức N4: lỡ quên ô, được một ông cụ cho mượn. Mỗi đoạn có từ mới, bản dịch và mẫu câu N4 đã gặp, cuối bài có ba câu hỏi đọc hiểu.",
+        "en": "A three-part short story at N4 level: forgetting an umbrella and being lent one by an old man. Each part has new words, a translation and the N4 patterns it uses, with three comprehension questions at the end."
+      },
+      "minutes": 6,
+      "updated": "2026-10-14",
+      "cover": "傘",
+      "premium": false,
+      "hasQuiz": true,
+      "file": "n4/ame-no-hi-no-kasa.md",
+      "images": []
+    },
+    {
+      "id": 11,
+      "slug": "jidoushi-tadoushi",
+      "level": 4,
+      "category": "vocabulary",
+      "title": {
+        "vi": "Cửa mở hay tôi mở cửa? Tự động từ và tha động từ qua 8 cặp quen thuộc",
+        "en": "Does the door open or do I open it? Intransitive and transitive verbs in 8 familiar pairs",
+        "ja": "「ドアが開く」と「ドアを開ける」：自動詞と他動詞を8つのペアで"
+      },
+      "summary": {
+        "vi": "Tiếng Việt chỉ có một chữ “mở” cho cả hai việc, tiếng Nhật chia thành hai động từ. Một ý gốc, tám cặp thường gặp, mẹo đoán theo đuôi từ và cách dùng với ています, てあります.",
+        "en": "Vietnamese has one word for both, Japanese has two verbs. One core idea, eight common pairs, a tip for guessing from the ending, and how to use them with ています and てあります."
+      },
+      "minutes": 6,
+      "updated": "2026-10-14",
+      "cover": "開",
+      "premium": false,
+      "hasQuiz": true,
+      "file": "n4/jidoushi-tadoushi.md",
+      "images": []
+    },
+    {
+      "id": 10,
+      "slug": "te-iru",
+      "level": 4,
+      "category": "grammar",
+      "title": {
+        "vi": "〜ている không chỉ là “đang”: bốn nghĩa và cách đoán đúng nghĩa",
+        "en": "〜ている is not only “-ing”: four meanings and how to guess the right one",
+        "ja": "「〜ている」は「〜している」だけではない：4つの意味と見分け方"
+      },
+      "summary": {
+        "vi": "Một mẫu ている, bốn nghĩa: đang làm, trạng thái sau thay đổi, thói quen và tình trạng kéo dài. Kèm cách đoán nghĩa từ động từ và từ đi kèm, và lỗi “cửa mở” người Việt hay mắc.",
+        "en": "One pattern, four meanings: in progress, a state after a change, a habit and a lasting situation. With a way to guess the meaning from the verb and nearby words, and the “the door is open” mistake Vietnamese learners make."
+      },
+      "minutes": 7,
+      "updated": "2026-10-14",
+      "cover": "居",
+      "premium": true,
+      "hasQuiz": true,
+      "file": "n4/te-iru.md",
+      "images": []
+    },
+    {
+      "id": 9,
+      "slug": "te-form",
+      "level": 4,
+      "category": "grammar",
+      "title": {
+        "vi": "Thể て dùng để làm gì? Một ý gốc và bốn cách dùng",
+        "en": "What is the て-form for? One core idea and four uses",
+        "ja": "「て形」は何のため？ 基本の考え方と4つの使い方"
+      },
+      "summary": {
+        "vi": "Bạn đã học cách chia thể て. Bài này trả lời câu hỏi tiếp theo: nó dùng để làm gì. Nối hành động, chỉ cách thức, chỉ lý do, và gắn thêm sắc thái, kèm lỗi dùng て trước lời nhờ vả.",
+        "en": "You have learned how to form the て-form. This article answers the next question: what it is for. Chaining actions, manner, reason and added nuance, with the mistake of using it before a request."
+      },
+      "minutes": 6,
+      "updated": "2026-10-14",
+      "cover": "て",
+      "premium": false,
+      "hasQuiz": true,
+      "file": "n4/te-form.md",
+      "images": []
+    },
+    {
+      "id": 8,
+      "slug": "daily-15-minutes",
+      "level": 5,
+      "category": "general",
+      "title": {
+        "vi": "Học tiếng Nhật 15 phút mỗi ngày: một thói quen nhỏ thay cho những lần nước rút",
+        "en": "Learning Japanese 15 minutes a day: a small habit instead of cramming",
+        "ja": "毎日15分の日本語 — 「たまに長く」より「毎日少し」"
+      },
+      "summary": {
+        "vi": "Vì sao 15 phút đều đặn thắng một buổi dài thỉnh thoảng, cách chia 15 phút thành ba khối, lịch một tuần và cách giữ chuỗi ngày học khi bạn lỡ một hôm.",
+        "en": "Why 15 steady minutes beat a long session now and then, how to split 15 minutes into three blocks, a weekly rhythm, and how to keep your streak when you miss a day."
+      },
+      "minutes": 5,
+      "updated": "2026-10-14",
+      "cover": "毎",
+      "premium": false,
+      "hasQuiz": true,
+      "file": "n5/daily-15-minutes.md",
+      "images": []
+    },
+    {
+      "id": 7,
+      "slug": "start-n5",
+      "level": 5,
+      "category": "jlpt",
+      "title": {
+        "vi": "Bắt đầu ôn JLPT N5: đề thi gồm gì và nên học theo thứ tự nào",
+        "en": "Starting JLPT N5: what the test covers and what to study first",
+        "ja": "JLPT N5の準備 — 試験の内容と勉強の順番"
+      },
+      "summary": {
+        "vi": "Ba phần của đề N5, năm mảng cần học, kế hoạch 8 tuần và cách làm bài trắc nghiệm. Bài không nêu ngày thi hay lệ phí vì những thứ đó đổi hằng năm: hãy xem thông báo chính thức.",
+        "en": "The three parts of the N5 test, the five areas to study, an 8-week plan and how to approach multiple-choice questions. No exam dates or fees: they change every year, so check the official announcement."
+      },
+      "minutes": 5,
+      "updated": "2026-10-14",
+      "cover": "N5",
+      "premium": false,
+      "hasQuiz": true,
+      "file": "n5/start-n5.md",
+      "images": []
+    },
+    {
+      "id": 6,
+      "slug": "my-day",
+      "level": 5,
+      "category": "reading",
+      "title": {
+        "vi": "Truyện ngắn N5: 私の一日 (Một ngày của tôi), có chú giải từ mới",
+        "en": "N5 short story: 私の一日 (My day), with glossed words",
+        "ja": "やさしい読みもの — 「私の一日」"
+      },
+      "summary": {
+        "vi": "Một truyện ngắn chỉ dùng từ và mẫu câu N5, chia ba đoạn, mỗi đoạn có từ mới và bản dịch. Đọc xong có ba câu hỏi kiểm tra bạn hiểu đúng chi tiết.",
+        "en": "A short story that uses only N5 words and patterns, in three parts, each with new words and a translation. Three questions at the end check that you understood the details."
+      },
+      "minutes": 5,
+      "updated": "2026-10-14",
+      "cover": "日",
+      "premium": false,
+      "hasQuiz": true,
+      "file": "n5/my-day.md",
+      "images": []
+    },
+    {
+      "id": 5,
+      "slug": "daily-greetings",
+      "level": 5,
+      "category": "culture",
+      "title": {
+        "vi": "Lời chào hằng ngày trong tiếng Nhật: いただきます, ただいま, お疲れ様 và khi nào không nên nói",
+        "en": "Everyday Japanese greetings: いただきます, ただいま, お疲れ様 and when not to say them",
+        "ja": "毎日のあいさつ — 「いただきます」「ただいま」「お疲れ様です」の使いどころ"
+      },
+      "summary": {
+        "vi": "Lời chào tiếng Nhật đi theo cặp và gắn với tình huống, không dịch từng chữ được. Năm tình huống thường gặp, cùng lỗi người Việt hay mắc là dùng いただきます để mời người khác ăn.",
+        "en": "Japanese greetings come in pairs and belong to situations, so they cannot be translated word by word. Five common situations and the mistake Vietnamese learners make: saying いただきます to invite someone to eat."
+      },
+      "minutes": 5,
+      "updated": "2026-10-14",
+      "cover": "礼",
+      "premium": false,
+      "hasQuiz": true,
+      "file": "n5/daily-greetings.md",
+      "images": []
+    },
+    {
+      "id": 4,
+      "slug": "dates-readings",
+      "level": 5,
+      "category": "kanji",
+      "title": {
+        "vi": "Ngày, tháng, thứ: những cách đọc dễ nhầm nhất ở N5 (一日, 二十日, 今日…)",
+        "en": "Dates, months and weekdays: the readings that trip up N5 learners (一日, 二十日, 今日…)",
+        "ja": "日付・月・曜日 — N5でまちがえやすい読み方（一日・二十日・今日…）"
+      },
+      "summary": {
+        "vi": "Tháng đọc đơn giản, ngày thì có hai “lớp” đọc. Bảng ngày 1 đến 31, các từ hôm qua, hôm nay, ngày mai và bảy thứ trong tuần, kèm mẹo nhớ bằng âm Hán Việt.",
+        "en": "Months are easy, days have two layers of readings. The table of days 1 to 31, yesterday, today and tomorrow, and the seven weekdays, with Sino-Vietnamese memory aids."
+      },
+      "minutes": 6,
+      "updated": "2026-10-14",
+      "cover": "日",
+      "premium": true,
+      "hasQuiz": true,
+      "file": "n5/dates-readings.md",
+      "images": []
+    },
+    {
+      "id": 3,
+      "slug": "counters",
+      "level": 5,
+      "category": "vocabulary",
+      "title": {
+        "vi": "Đếm đồ vật trong tiếng Nhật: つ, 個, 枚, 本, 冊, 人 dùng khi nào?",
+        "en": "Counting things in Japanese: when to use つ, 個, 枚, 本, 冊 and 人",
+        "ja": "ものの数え方 — 「つ・個・枚・本・冊・人」の使い分け"
+      },
+      "summary": {
+        "vi": "Tiếng Nhật đếm theo hình dạng đồ vật. Một ý gốc, sáu cách đếm hay dùng nhất, bảng âm đọc của 本 và lỗi đặt số đếm trước danh từ như tiếng Việt.",
+        "en": "Japanese counts by the shape of the thing. One core idea, the six most useful counters, the sound changes of 本 and the mistake of putting the number before the noun like Vietnamese."
+      },
+      "minutes": 6,
+      "updated": "2026-10-14",
+      "cover": "本",
+      "premium": false,
+      "hasQuiz": true,
+      "file": "n5/counters.md",
+      "images": []
+    },
+    {
+      "id": 2,
+      "slug": "ni-vs-de",
+      "level": 5,
+      "category": "grammar",
+      "title": {
+        "vi": "に hay で? Nơi chốn, thời gian và phương tiện trong 4 tình huống",
+        "en": "に or で? Places, times and means in 4 situations",
+        "ja": "「に」と「で」の使い分け — 場所・時間・手段の4つの場面"
+      },
+      "summary": {
+        "vi": "Tiếng Việt chỉ có một chữ “ở”, tiếng Nhật chia thành に và で. Một ý gốc và bốn tình huống để chọn đúng, kèm lỗi “sống ở Tokyo” người Việt hay mắc.",
+        "en": "Vietnamese has one word for “at”, Japanese splits it into に and で. One core idea and four situations to choose correctly, with the “live in Tokyo” mistake Vietnamese learners make."
+      },
+      "minutes": 5,
+      "updated": "2026-10-14",
+      "cover": "に",
+      "premium": false,
+      "hasQuiz": true,
+      "file": "n5/ni-vs-de.md",
+      "images": []
+    },
+    {
+      "id": 1,
+      "slug": "wa-vs-ga",
+      "level": 5,
+      "category": "grammar",
+      "title": {
+        "vi": "Phân biệt は và が — 5 tình huống hay nhầm nhất",
+        "en": "は vs が — the 5 situations learners mix up most",
+        "ja": "「は」と「が」の使い分け — まちがえやすい5つの場面"
+      },
+      "summary": {
+        "vi": "は nói về điều đã biết, が đưa ra thông tin mới. Năm tình huống cụ thể, kèm lỗi người Việt hay mắc và bài kiểm tra nhanh.",
+        "en": "は marks what is already known, が brings in new information. Five concrete situations, the mistakes Vietnamese learners make, and a short quiz."
+      },
+      "minutes": 6,
+      "updated": "2026-10-13",
+      "cover": "は",
+      "premium": false,
+      "hasQuiz": true,
+      "file": "n5/wa-vs-ga.md",
+      "images": []
+    }
+  ]
+}
