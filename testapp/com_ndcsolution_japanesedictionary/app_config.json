@@ -21,10 +21,11 @@
     "banner": 1,
     "interstitial": 0.5,
     "native": 1,
-    "adpress": 3000,
+    "adpress": 300,
 	"freqShowAdsRewardAfterShowInter": 15,
 	"intervalAdsShowRewardInter": 5,
     "intervalAdsInter": 90000,
+    "maxDonatePerDay": 5,
     "intervalRefreshConfig": 900000,
 	"showAdsOnHomePage": 1,
     "showAdsWhenResume": 1,
@@ -40,8 +41,12 @@
   },
   "adsid": {
       "ios": {
-        "banner": "ca-app-pub-8736491681464477/7341528897",
-        "interstitial": "ca-app-pub-8736491681464477/6822723957",
+        "banner": "ca-app-pub-8199158653561127/7341528897",
+        "interstitial": "ca-app-pub-8199158653561127/6822723957",
+		"reward_ads": "ca-app-pub-8199158653561127/1206859121",
+        "reward_interstitial": "ca-app-pub-8199158653561127/4198572719",
+		"reward_interstitial_donate": "ca-app-pub-8199158653561127/5223087198",
+        "open_app_interstitial": "ca-app-pub-8199158653561127/8453166436",
         "native_small": "ca-app-pub-8736491681464477/1105356392",
         "native_medium": "ca-app-pub-8736491681464477/1105356392",
         "native_large": "ca-app-pub-8736491681464477/1105356392",
@@ -56,9 +61,9 @@
         "reward_interstitial": "ca-app-pub-8199158653561127/4198572719",
 		"reward_interstitial_donate": "ca-app-pub-8199158653561127/5223087198",
         "open_app_interstitial": "ca-app-pub-8199158653561127/8453166436",
-        "native_small": "ca-app-pub-8199158653561127/4709131039",
-        "native_medium": "ca-app-pub-8199158653561127/4709131039",
-        "native_large": "ca-app-pub-8199158653561127/4709131039"
+        "native_small": "ca-app-pub-8199158653561127/8836246758",
+        "native_medium": "ca-app-pub-8199158653561127/8836246758",
+        "native_large": "ca-app-pub-8199158653561127/8836246758"
       },
       "wp8": {
         "banner": "ca-app-pub-8736491681464477/7341528897",
