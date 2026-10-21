@@ -1,0 +1,105 @@
+{
+  "appInfo": {
+	"android": {
+        "app_store_id": "com.ndcsolution.learnspeakjapanese",
+		"version_code": 56,
+		"day_of_upgrade_app": 1,
+		"message_upgrade_app": "A new version of the Android app is available. Please update to the latest version for the best experience.<br>- Added writing kanji feature<br>- Added Hiragana & Katakana alphabet memory practice<br>- Added Japanese Podcast listening feature<br>- Improve the performance for the app<br> - <a href='https://ndc-corp.com'>Access the NDC website.</a>"
+	},
+	"ios": {
+		"app_store_id": "00000000-00",
+		"version_code": 56,
+		"day_of_upgrade_app": 1,
+		"message_upgrade_app": "A new version of the iOS app is available. Please update to the latest version for the best experience.<br>- Added writing kanji feature<br>- Added Hiragana & Katakana alphabet memory practice<br>- Added Japanese Podcast listening feature<br>- Improve the performance for the app"
+	},
+	"version_key": "bb4aba0633e187d42afb56ac43d605af",
+	"day_of_upgrade_app": 5
+  },
+  "adsProb": {
+    "banner": 1,
+    "interstitial": 0.5,
+    "native": 1,
+    "adpress": 300,
+	"freqShowAdsRewardAfterShowInter": 10,
+	"intervalAdsShowRewardInter": 5,
+    "intervalAdsInter": 90000,
+	"maxDonatePerDay": 5,
+    "intervalRefreshConfig": 900000,
+	"showAdsOnHomePage": 1,
+    "showAdsWhenResume": 1,
+	"allowShowRewardAds": 1,
+    "exchangeCoinsToFreeDay": 10,
+    "articleCoinsPerAd": 5,
+    "articleOpenCostCoins": 3,
+    "articleDailyAdLimit": 0,
+    "articleUnlockMinutes": 180,
+	"intervalCallConsent": 5,
+	"testDeviceIds": "D03C36835808C45E6687600434A8BB1B"
+  },
+  "ga": {
+    "android": "UA-00000000-00",
+    "ios": "UA-00000000-00",
+    "wp": "UA-00000000-0"
+  },
+  "adsid": {
+      "ios": {
+        "banner": "ca-app-pub-8199158653561127/2019730084",
+        "interstitial": "ca-app-pub-8199158653561127/8179967843",
+        "reward_ads": "ca-app-pub-8199158653561127/9335183132",
+        "reward_interstitial": "ca-app-pub-8199158653561127/3503049086",
+		"reward_interstitial_donate": "ca-app-pub-8199158653561127/4807798412",
+        "open_app_interstitial": "ca-app-pub-8199158653561127/8453166436",
+        "native_small": "ca-app-pub-8199158653561127/9359292256",
+        "native_medium": "ca-app-pub-8199158653561127/9359292256",
+        "native_large": "ca-app-pub-8199158653561127/9359292256"
+        "news_end": "143625519511586_188378631702941",
+        "search": "143625519511586_188379108369560",
+        "search_instant": "143625519511586_188583231682481"
+      },
+      "android": {
+        "banner": "ca-app-pub-8199158653561127/2019730084",
+        "interstitial": "ca-app-pub-8199158653561127/8179967843",
+        "reward_ads": "ca-app-pub-8199158653561127/9335183132",
+        "reward_interstitial": "ca-app-pub-8199158653561127/3503049086",
+		"reward_interstitial_donate": "ca-app-pub-8199158653561127/4807798412",
+        "open_app_interstitial": "ca-app-pub-8199158653561127/8453166436",
+        "native_small": "ca-app-pub-8199158653561127/9359292256",
+        "native_medium": "ca-app-pub-8199158653561127/9359292256",
+        "native_large": "ca-app-pub-8199158653561127/9359292256"
+      },
+      "wp8": {
+        "banner": "ca-app-pub-8736491681464477/4292620223",
+        "interstitial": "ca-app-pub-8736491681464477/2213251798"
+      }
+  },
+  "audio": {
+      "request_name": "http://dws2.voicetext.jp/tomcat/servlet/vt",
+      "request_file": "http://dws2.voicetext.jp/ASLCLCLVVS/JMEJSYGDCHMSMHSRKPJL/"
+  },
+  "api_config": {
+	  "ai_history_turns": 2,
+	  "ai_tutor_free_tier_enabled": 1,
+      "gemini_model_name": "gemini-3.5-flash-lite",
+	  "chatgpt_model_name": "gpt-4o-mini",
+	  "claude_model_name": "claude-haiku-4-5",
+	  "deepseek_model_name": "deepseek-flash",
+	  "db_manifest_url": "https://jmina-database.ndcstorage.io.vn/learnspeakjapanese/",
+      "config_podcast_url": "https://raw.githubusercontent.com/nguyendinhchinh/privacy_policy/master/apps/podcast_rss.json",
+      "config_podcast_url_2": "https://jmina-content.ndcstorage.io.vn/apps/podcast_rss.json",
+      "listen_audio_base_url": "https://jmina-content.ndcstorage.io.vn/",
+      "listen_video_base_url": "https://jmina-content.ndcstorage.io.vn/apps/learnspeakjapanese/video/",
+      "content_base_url": "https://jmina-content.ndcstorage.io.vn/",
+      "article_base_url": "https://jmina-content.ndcstorage.io.vn/apps/learnspeakjapanese/articles/",
+	  "ai_proxy_url": "https://v2-jmina-ai-proxy.ndcstorage.io.vn/api/chat",
+      "ai_grammar_chat_proxy_url": "https://v2-jmina-ai-proxy.ndcstorage.io.vn/api/grammar-chat",
+      "ai_tutor_chat_proxy_url": "https://v2-jmina-ai-proxy.ndcstorage.io.vn/api/tutor-chat",
+      "ai_learn_step_proxy_url": "https://v2-jmina-ai-proxy.ndcstorage.io.vn/api/learn-step"
+  },
+  "dbUpdate": {
+    "force": 0,
+    "message": "New learning content is available.<br>- Updated vocabulary examples and corrected translations<br>Please update now to get the latest content.",
+    "day_of_remind": 5
+  },
+  "mazii_url": "http://mazii.net/api/",
+  "ir": false
+}
