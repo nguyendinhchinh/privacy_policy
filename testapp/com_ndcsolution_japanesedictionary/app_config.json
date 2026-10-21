@@ -86,10 +86,10 @@
       "config_podcast_url_2": "https://jdict-content.ndcstorage.io.vn/testapp/podcast_rss.json",
 	  "listen_audio_base_url": "https://jdict-content.ndcstorage.io.vn/testapp/audio/",
       "listen_video_base_url": "https://jdict-content.ndcstorage.io.vn/testapp/video/",
-	  "ai_proxy_url": "https://v2-jdict-ai-proxy.ndcstorage.io.vn",
-      "ai_grammar_chat_proxy_url": "https://v2-jdict-ai-proxy.ndcstorage.io.vn",
-      "ai_tutor_chat_proxy_url": "https://v2-jdict-ai-proxy.ndcstorage.io.vn",
-      "ai_learn_step_proxy_url": "https://v2-jdict-ai-proxy.ndcstorage.io.vn"
+	  "ai_proxy_url": "https://jdict-ai-proxy.ndcstorage.io.vn",
+      "ai_grammar_chat_proxy_url": "https://jdict-ai-proxy.ndcstorage.io.vn",
+      "ai_tutor_chat_proxy_url": "https://jdict-ai-proxy.ndcstorage.io.vn",
+      "ai_learn_step_proxy_url": "https://jdict-ai-proxy.ndcstorage.io.vn"
   },
   	"ui_config": {
 		"theme_default_enabled": 1,

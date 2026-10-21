@@ -86,10 +86,10 @@
       "listen_video_base_url": "https://jmina-content.ndcstorage.io.vn/apps/japaneseforbeginner/video/",
       "content_base_url": "https://jmina-content.ndcstorage.io.vn/",
       "article_base_url": "https://jmina-content.ndcstorage.io.vn/apps/japaneseforbeginner/articles/",
-	  "ai_proxy_url": "https://v1-jmina-ai-proxy.ndcstorage.io.vn/api/chat",
-      "ai_grammar_chat_proxy_url": "https://v1-jmina-ai-proxy.ndcstorage.io.vn/api/grammar-chat",
-      "ai_tutor_chat_proxy_url": "https://v1-jmina-ai-proxy.ndcstorage.io.vn/api/tutor-chat",
-      "ai_learn_step_proxy_url": "https://v1-jmina-ai-proxy.ndcstorage.io.vn/api/learn-step"
+	  "ai_proxy_url": "https://jmina-ai-proxy.ndcstorage.io.vn/api/chat",
+      "ai_grammar_chat_proxy_url": "https://jmina-ai-proxy.ndcstorage.io.vn/api/grammar-chat",
+      "ai_tutor_chat_proxy_url": "https://jmina-ai-proxy.ndcstorage.io.vn/api/tutor-chat",
+      "ai_learn_step_proxy_url": "https://jmina-ai-proxy.ndcstorage.io.vn/api/learn-step"
   },
   "dbUpdate": {
     "force": 0,
