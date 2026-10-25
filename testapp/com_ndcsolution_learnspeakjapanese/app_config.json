@@ -84,12 +84,12 @@
 	  "claude_model_name": "claude-haiku-4-5",
 	  "deepseek_model_name": "deepseek-flash",
 	  "db_manifest_url": "https://jmina-database.ndcstorage.io.vn/learnspeakjapanese/",
-      "config_podcast_url": "https://raw.githubusercontent.com/nguyendinhchinh/privacy_policy/master/apps/podcast_rss.json",
-      "config_podcast_url_2": "https://jmina-content.ndcstorage.io.vn/apps/podcast_rss.json",
+      "config_podcast_url": "https://raw.githubusercontent.com/nguyendinhchinh/privacy_policy/master/testapp/podcast_rss.json",
+      "config_podcast_url_2": "https://jmina-content.ndcstorage.io.vn/testapp/podcast_rss.json",
       "listen_audio_base_url": "https://jmina-content.ndcstorage.io.vn/",
-      "listen_video_base_url": "https://jmina-content.ndcstorage.io.vn/apps/learnspeakjapanese/video/",
+      "listen_video_base_url": "https://jmina-content.ndcstorage.io.vn/testapp/learnspeakjapanese/video/",
       "content_base_url": "https://jmina-content.ndcstorage.io.vn/",
-      "article_base_url": "https://jmina-content.ndcstorage.io.vn/apps/learnspeakjapanese/articles/",
+      "article_base_url": "https://jmina-content.ndcstorage.io.vn/testapp/learnspeakjapanese/articles/",
 	  "ai_proxy_url": "https://jmina-ai-proxy.ndcstorage.io.vn/api/chat",
       "ai_grammar_chat_proxy_url": "https://jmina-ai-proxy.ndcstorage.io.vn/api/grammar-chat",
       "ai_tutor_chat_proxy_url": "https://jmina-ai-proxy.ndcstorage.io.vn/api/tutor-chat",
@@ -100,6 +100,12 @@
     "message": "New learning content is available.<br>- Updated vocabulary examples and corrected translations<br>Please update now to get the latest content.",
     "day_of_remind": 5
   },
+  "ui_config": {
+		"theme_blue_enabled": 0,
+		"theme_purple_enabled": 1,
+		"theme_modern_enabled": 1,
+		"default_color_theme": "modern"
+	},
   "mazii_url": "http://mazii.net/api/",
   "ir": false
 }

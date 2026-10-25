@@ -96,6 +96,12 @@
     "message": "New learning content is available.<br>- Updated vocabulary examples and corrected translations<br>Please update now to get the latest content.",
     "day_of_remind": 5
   },
+    "ui_config": {
+		"theme_blue_enabled": 1,
+		"theme_purple_enabled": 1,
+		"theme_modern_enabled": 0,
+		"default_color_theme": "blue"
+	},
   "mazii_url": "http://mazii.net/api/",
   "ir": false
 }
