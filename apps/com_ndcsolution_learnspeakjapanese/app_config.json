@@ -20,7 +20,7 @@
     "interstitial": 0.5,
     "native": 1,
     "adpress": 300,
-	"freqShowAdsRewardAfterShowInter": 10,
+	"freqShowAdsRewardAfterShowInter": 25,
 	"intervalAdsShowRewardInter": 5,
     "intervalAdsInter": 90000,
 	"maxDonatePerDay": 5,
