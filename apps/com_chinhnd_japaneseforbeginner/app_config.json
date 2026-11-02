@@ -20,7 +20,7 @@
     "interstitial": 0.5,
     "native": 1,
     "adpress": 300,
-	"freqShowAdsRewardAfterShowInter": 25,
+	"freqShowAdsRewardAfterShowInter": 50,
 	"intervalAdsShowRewardInter": 5,
     "intervalAdsInter": 90000,
 	"maxDonatePerDay": 5,
@@ -53,15 +53,15 @@
         "search_instant": "143625519511586_188583231682481"
       },
       "android": {
-        "banner": "ca-app-pub-8199158653561127/8338834222",
-        "interstitial": "ca-app-pub-8199158653561127/1745505718",
-        "reward_ads": "ca-app-pub-8199158653561127/1746277530",
-        "reward_interstitial": "ca-app-pub-8199158653561127/1033162133",
-		"reward_interstitial_donate": "ca-app-pub-8199158653561127/1746277530",
+        "banner": "ca-app-pub-8199158653561127/6728359092",
+        "interstitial": "ca-app-pub-8199158653561127/3650769613",
+        "reward_ads": "ca-app-pub-8199158653561127/1498589851",
+        "reward_interstitial": "ca-app-pub-8199158653561127/9162950743",
+		"reward_interstitial_donate": "ca-app-pub-8199158653561127/1498589851",
         "open_app_interstitial": "ca-app-pub-8199158653561127/8453166436",
-        "native_small": "ca-app-pub-8199158653561127/2921861208",
-        "native_medium": "ca-app-pub-8199158653561127/2921861208",
-        "native_large": "ca-app-pub-8199158653561127/2921861208"
+        "native_small": "ca-app-pub-8199158653561127/1284460723",
+        "native_medium": "ca-app-pub-8199158653561127/1284460723",
+        "native_large": "ca-app-pub-8199158653561127/1284460723"
       },
       "wp8": {
         "banner": "ca-app-pub-8736491681464477/4292620223",
