@@ -27,6 +27,8 @@
     "intervalRefreshConfig": 900000,
 	"showAdsOnHomePage": 1,
     "showAdsWhenResume": 1,
+    "showAdsAtStartup": 1,
+    "interstitialLaunchGraceMinutes": 3,
 	"allowShowRewardAds": 1,
     "exchangeCoinsToFreeDay": 10,
     "articleCoinsPerAd": 5,
