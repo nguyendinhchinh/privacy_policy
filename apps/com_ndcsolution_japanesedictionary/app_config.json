@@ -2,9 +2,9 @@
   "appInfo": {
 	"android": {
         "app_store_id": "com.ndcsolution.japanesedictionary",
-		"version_code": 30,
+		"version_code": 31,
 		"day_of_upgrade_app": 1,
-		"message_upgrade_app": "A new version of the Android app is available. Please update to the latest version for the best experience.<br>- Added writing kanji feature<br>- Added Hiragana & Katakana alphabet memory practice<br>- Added Japanese Podcast listening feature<br>- Improve the performance for the app<br> - <a href='https://ndc.id.vn'>Access the NDC website.</a>"
+		"message_upgrade_app": "A new version of the Android app is available. Please update to the latest version for the best experience.<br>- New Grammar reference: JLPT N5 to N1 points with explanations, examples and a note<br>- Grammar texts update on their own, without an app update<br>- AI answers show furigana and keep Japanese in the right script<br>- The first-time dictionary download is about 65% smaller, so setup is faster<br>- Stability improvements on some devices<br> - <a href='https://ndc.id.vn'>Access the NDC website.</a>"
 	},
 	"ios": {
 		"app_store_id": "00000000-00",
@@ -12,7 +12,7 @@
 		"day_of_upgrade_app": 1,
 		"message_upgrade_app": "A new version of the iOS app is available. Please update to the latest version for the best experience.<br>- Added writing kanji feature<br>- Added Hiragana & Katakana alphabet memory practice<br>- Added Japanese Podcast listening feature<br>- Improve the performance for the app"
 	},
-	"version_code": 30,
+	"version_code": 31,
 	"version_key": "bb4aba0633e187d42afb56ac43d605af",
 	"day_of_upgrade_app": 5,
 	"message_upgrade_app": "A new version of the app is available. Please update to the latest version for the best experience."
@@ -81,6 +81,7 @@
 	  "chatgpt_model_name": "gpt-4o-mini",
 	  "claude_model_name": "claude-haiku-4-5",
 	  "deepseek_model_name": "deepseek-flash",
+	  "writing_quota": "shared",
 	  "db_manifest_url": "https://jdict-database.ndcstorage.io.vn/jdict/",
 	  "content_base_url": "https://jdict-content.ndcstorage.io.vn",
 	  "content_base_url_2": "https://ndc.id.vn",
