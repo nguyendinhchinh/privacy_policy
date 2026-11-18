@@ -87,13 +87,13 @@
 	  "content_base_url_2": "https://ndc.id.vn",
 	  "listen_audio_base_url": "https://jdict-content.ndcstorage.io.vn/testapp/audio/",
       "listen_video_base_url": "https://jdict-content.ndcstorage.io.vn/testapp/video/",
-	  "ai_proxy_url": "https://jdict-ai-proxy.ndcstorage.io.vn",
-      "ai_grammar_chat_proxy_url": "https://jdict-ai-proxy.ndcstorage.io.vn",
-      "ai_tutor_chat_proxy_url": "https://jdict-ai-proxy.ndcstorage.io.vn",
-      "ai_learn_step_proxy_url": "https://jdict-ai-proxy.ndcstorage.io.vn"
+	  "ai_proxy_url": "https://jdict-ai-proxy-dev.dinhchinh-ndc.workers.dev",
+      "ai_grammar_chat_proxy_url": "https://jdict-ai-proxy-dev.dinhchinh-ndc.workers.dev",
+      "ai_tutor_chat_proxy_url": "https://jdict-ai-proxy-dev.dinhchinh-ndc.workers.dev",
+      "ai_learn_step_proxy_url": "https://jdict-ai-proxy-dev.dinhchinh-ndc.workers.dev"
   },
   "dbUpdate": {
-    "force": 0,
+    "force": 1,
     "message": "New learning content is available.<br>- Updated vocabulary examples and corrected translations<br>Please update now to get the latest content.",
     "day_of_remind": 1
   },

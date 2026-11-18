@@ -93,7 +93,7 @@
       "ai_learn_step_proxy_url": "https://jdict-ai-proxy-dev.dinhchinh-ndc.workers.dev"
   },
   "dbUpdate": {
-    "force": 0,
+    "force": 1,
     "message": "New learning content is available.<br>- Updated vocabulary examples and corrected translations<br>Please update now to get the latest content.",
     "day_of_remind": 1
   },
