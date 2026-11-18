@@ -92,6 +92,11 @@
       "ai_tutor_chat_proxy_url": "https://jdict-ai-proxy.ndcstorage.io.vn",
       "ai_learn_step_proxy_url": "https://jdict-ai-proxy.ndcstorage.io.vn"
   },
+  "dbUpdate": {
+    "force": 0,
+    "message": "New learning content is available.<br>- Updated vocabulary examples and corrected translations<br>Please update now to get the latest content.",
+    "day_of_remind": 1
+  },
   	"ui_config": {
 		"theme_default_enabled": 1,
 		"theme_red_enabled": 1,
