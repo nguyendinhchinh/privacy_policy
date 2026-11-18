@@ -82,7 +82,7 @@
 	  "claude_model_name": "claude-haiku-4-5",
 	  "deepseek_model_name": "deepseek-flash",
 	  "writing_quota_separate": 0,
-	  "db_manifest_url": "https://jdict-database.ndcstorage.io.vn/jdict/",
+	  "db_manifest_url": "https://jdict-database.ndcstorage.io.vn/testapp/jdict/",
 	  "content_base_url": "https://jdict-content.ndcstorage.io.vn",
 	  "content_base_url_2": "https://ndc.id.vn",
 	  "listen_audio_base_url": "https://jdict-content.ndcstorage.io.vn/testapp/audio/",
