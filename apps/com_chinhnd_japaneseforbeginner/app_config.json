@@ -102,7 +102,8 @@
 		"theme_blue_enabled": 1,
 		"theme_purple_enabled": 1,
 		"theme_modern_enabled": 0,
-		"default_color_theme": "blue"
+		"default_color_theme": "blue",
+		"english_pack": 1
 	},
   "mazii_url": "http://mazii.net/api/",
   "ir": false
