@@ -82,7 +82,7 @@
 	  "claude_model_name": "claude-haiku-4-5",
 	  "deepseek_model_name": "deepseek-flash",
 	  "writing_quota_separate": 0,
-	  "db_manifest_url": "https://jdict-database.ndcstorage.io.vn/jdict/",
+	  "db_manifest_url": "https://jdict-database.ndcstorage.io.vn/apps/jdict/",
 	  "content_base_url": "https://jdict-content.ndcstorage.io.vn",
 	  "content_base_url_2": "https://ndc.id.vn",
 	  "listen_audio_base_url": "https://jdict-content.ndcstorage.io.vn/apps/audio/",
@@ -91,6 +91,11 @@
       "ai_grammar_chat_proxy_url": "https://jdict-ai-proxy.ndcstorage.io.vn",
       "ai_tutor_chat_proxy_url": "https://jdict-ai-proxy.ndcstorage.io.vn",
       "ai_learn_step_proxy_url": "https://jdict-ai-proxy.ndcstorage.io.vn"
+  },
+  "dbUpdate": {
+    "force": 0,
+    "message": "New learning content is available.<br>- Updated vocabulary examples and corrected translations<br>Please update now to get the latest content.",
+    "day_of_remind": 2
   },
   "ui_config": {
     "theme_default_enabled": 1,
