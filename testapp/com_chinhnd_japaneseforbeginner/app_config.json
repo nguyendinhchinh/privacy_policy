@@ -2,9 +2,9 @@
   "appInfo": {
 	"android": {
         "app_store_id": "com.chinhnd.japaneseforbeginner",
-		"version_code": 26,
+		"version_code": 82,
 		"day_of_upgrade_app": 1,
-		"message_upgrade_app": "A new version of the Android app is available. Please update to the latest version for the best experience.<br>- Added writing kanji feature<br>- Added Hiragana & Katakana alphabet memory practice<br>- Added Japanese Podcast listening feature<br>- Improve the performance for the app<br> - <a href='https://ndc-corp.com'>Access the NDC website.</a>"
+		"message_upgrade_app": "A new version of the Android app is available. Please update to the latest version for the best experience.<br>- Study the content in English: download the English pack in Settings for the dictionary, lessons and quiz<br>- Choose a language on the first download screen<br>- JLPT grammar laid out in sections, with furigana over the example sentences<br>- Improve the performance for the app<br> - <a href='https://ndc-corp.com'>Access the NDC website.</a>"
 	},
 	"ios": {
 		"app_store_id": "00000000-00",
