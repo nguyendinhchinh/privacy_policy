@@ -94,14 +94,18 @@
   },
   "dbUpdate": {
     "force": 0,
-    "message": "New learning content is available.<br>- Updated vocabulary examples and corrected translations<br>Please update now to get the latest content.",
+    "message": "New learning content is available.<br>- Stroke order added for 22 kanji that had none<br>- Corrected stroke order for 92 kanji<br>Please update now to get the latest content.",
     "day_of_remind": 1
   },
   	"ui_config": {
 		"theme_default_enabled": 1,
 		"theme_red_enabled": 1,
 		"theme_red_original_enabled": 0,
-		"theme_crimson_enabled": 1
+		"theme_crimson_enabled": 1,
+		"theme_default_nav_style": "bottom_bar",
+		"theme_red_nav_style": "bottom_bar",
+		"theme_red_original_nav_style": "side_menu",
+		"theme_crimson_nav_style": "bottom_bar"
 	},
   "mazii_url": "http://mazii.net/api/",
   "ir": false
