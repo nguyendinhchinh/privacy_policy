@@ -107,6 +107,18 @@
 		"theme_red_original_nav_style": "side_menu",
 		"theme_crimson_nav_style": "bottom_bar"
 	},
+  "features": {
+    "review": 1,
+    "writing_recall": 1,
+    "sentence_questions": 1,
+    "conjugation_drill": 1,
+    "mock_exam": 1,
+    "exam_papers": 1,
+    "backup": 1,
+    "writing_correction": 1,
+    "graded_reading": 1,
+    "word_graph": 1
+  },
   "mazii_url": "http://mazii.net/api/",
   "ir": false
 }
