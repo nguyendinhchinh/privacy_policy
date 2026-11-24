@@ -32,7 +32,7 @@
 	"allowShowRewardAds": 1,
     "exchangeCoinsToFreeDay": 10,
 	"intervalCallConsent": 5,
-	"testDeviceIds": "D03C36835808C45E6687600434A8BB1B"
+	"testDeviceIds": "D03C36835808C45E6687600434A8BB1B,6E6C9541F4A418CEE9DAF9E726211D01"
   },
   "ga": {
     "android": "UA-00000000-00",
