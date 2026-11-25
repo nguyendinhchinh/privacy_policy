@@ -98,7 +98,7 @@
     "day_of_remind": 2
   },
   "ui_config": {
-    "theme_default_enabled": 0,
+    "theme_default_enabled": 1,
     "theme_red_enabled": 0,
     "theme_red_original_enabled": 1,
     "theme_crimson_enabled": 0,
