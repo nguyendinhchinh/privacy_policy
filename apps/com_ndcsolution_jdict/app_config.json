@@ -117,7 +117,8 @@
     "backup": 0,
     "writing_correction": 0,
     "graded_reading": 0,
-    "word_graph": 0
+    "word_graph": 0,
+    "kana_practice": 0
   },
   "mazii_url": "http://mazii.net/api/",
   "ir": false
