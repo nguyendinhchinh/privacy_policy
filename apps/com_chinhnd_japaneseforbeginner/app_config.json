@@ -106,6 +106,14 @@
 		"default_color_theme": "blue",
 		"english_pack": 1
 	},
+  "features": {
+    "video": 1,
+    "review": 0,
+    "conjugation": 0,
+    "kanjiRecall": 0,
+    "sentenceDrill": 0,
+    "examPapers": 0
+  },
   "mazii_url": "http://mazii.net/api/",
   "ir": false
 }
