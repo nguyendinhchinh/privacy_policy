@@ -112,7 +112,8 @@
     "conjugation": 1,
     "kanjiRecall": 1,
     "sentenceDrill": 1,
-    "examPapers": 1
+    "examPapers": 1,
+    "backup": 1
   },
   "mazii_url": "http://mazii.net/api/",
   "ir": false
