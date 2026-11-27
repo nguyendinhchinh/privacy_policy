@@ -1,0 +1,60 @@
+{
+  "appInfo": {
+	"android": {
+        "app_store_id": "com.ndcsolution.jpnews",
+		"version_code": 29,
+		"day_of_upgrade_app": 1,
+		"message_upgrade_app": "A new version of the Android app is available. Please update to the latest version for the best experience.<br>- New Grammar reference: JLPT N5 to N1 points with explanations, examples and a note<br>- Grammar texts update on their own, without an app update<br>- AI answers show furigana and keep Japanese in the right script<br>- The first-time dictionary download is about 65% smaller, so setup is faster<br>- Stability improvements on some devices<br> - <a href='https://ndc.id.vn'>Access the NDC website.</a>"
+	},
+	"ios": {
+		"app_store_id": "00000000-00",
+		"version_code": 29,
+		"day_of_upgrade_app": 1,
+		"message_upgrade_app": "A new version of the iOS app is available. Please update to the latest version for the best experience.<br>- Added writing kanji feature<br>- Added Hiragana & Katakana alphabet memory practice<br>- Added Japanese Podcast listening feature<br>- Improve the performance for the app"
+	},
+	"version_code": 29,
+	"day_of_upgrade_app": 1,
+	"message_upgrade_app": "A new version of the app is available. Please update to the latest version for the best experience.<br>- Added writing kanji feature<br>- Added Hiragana & Katakana alphabet memory practice<br>- Added Japanese Podcast listening feature<br>- Improve the performance for the app"
+  },
+  "adsProb": {
+    "banner": 1,
+    "interstitial": 0.5,
+    "native": 1,
+    "adpress": 300000,
+    "intervalAdsInter": 300000
+  },
+  "ga": {
+    "android": "UA-00000000-00",
+    "ios": "UA-00000000-00",
+    "wp": "UA-00000000-0"
+  },
+  "adsid": {
+      "ios": {
+        "banner": "ca-app-pub-8199158653561127/2038652476",
+        "interstitial": "ca-app-pub-8199158653561127/5786325793",
+        "native_small": "ca-app-pub-8199158653561127/7221154633",
+        "native_medium": "ca-app-pub-8199158653561127/7221154633",
+        "native_large": "ca-app-pub-8199158653561127/7221154633",
+        "news_end": "143625519511586_188378631702941",
+        "search": "143625519511586_188379108369560",
+        "search_instant": "143625519511586_188583231682481"
+      },
+      "android": {
+        "banner": "ca-app-pub-8199158653561127/2038652476",
+        "interstitial": "ca-app-pub-8199158653561127/5786325793",
+        "native_small": "ca-app-pub-8199158653561127/7221154633",
+        "native_medium": "ca-app-pub-8199158653561127/7221154633",
+        "native_large": "ca-app-pub-8199158653561127/7221154633"
+      },
+      "wp8": {
+        "banner": "ca-app-pub-8199158653561127/2038652476",
+        "interstitial": "ca-app-pub-8199158653561127/5786325793"
+      }
+  },
+  "audio": {
+      "request_name": "http://dws2.voicetext.jp/tomcat/servlet/vt",
+      "request_file": "http://dws2.voicetext.jp/ASLCLCLVVS/JMEJSYGDCHMSMHSRKPJL/"
+  },
+  "mazii_url": "http://mazii.net/api/",
+  "ir": false
+}
