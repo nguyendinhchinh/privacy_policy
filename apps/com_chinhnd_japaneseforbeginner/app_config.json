@@ -35,6 +35,10 @@
     "articleOpenCostCoins": 3,
     "articleDailyAdLimit": 0,
     "articleUnlockMinutes": 180,
+    "examPaperUnlockCoins": 5,
+    "flashcardFreePerDay": 5,
+    "flashcardOpenCostCoins": 2,
+    "flashcardUnlockMinutes": 60,
 	"intervalCallConsent": 5,
 	"testDeviceIds": "D03C36835808C45E6687600434A8BB1B,6E6C9541F4A418CEE9DAF9E726211D01"
   },
@@ -112,7 +116,9 @@
     "conjugation": 0,
     "kanjiRecall": 0,
     "sentenceDrill": 0,
-    "examPapers": 0
+    "examPapers": 0,
+    "backup": 0,
+    "aiWriting": 0
   },
   "mazii_url": "http://mazii.net/api/",
   "ir": false
